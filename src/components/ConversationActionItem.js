@@ -7,7 +7,37 @@ import i18n from 'i18n';
 
 const createStyles = theme => {
   const { spacing, borderRadius } = theme;
-  
+  return StyleSheet.create({
+    bottomSheetItem: {
+      flexDirection: 'row',
+      paddingVertical: spacing.half,
+      paddingHorizontal: spacing.small,
+      borderBottomWidth: 0.4,
+      height: 48,
+      borderRadius: borderRadius.small,
+      alignItems: 'center',
+      justifyContent: 'space-between',
+    },
+    sectionTitleView: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      justifyContent: 'flex-start',
+    },
+    sectionTitle: {
+      marginLeft: spacing.smaller,
+      marginRight: spacing.half,
+    },
+    sectionActiveTitle: {
+      marginLeft: spacing.micro,
+      marginRight: spacing.smaller,
+    },
+    sectionActionView: {
+      alignItems: 'center',
+      flexDirection: 'row',
+      justifyContent: 'flex-end',
+      flex: 4,
+    },
+  });
 };
 
 const propTypes = {
