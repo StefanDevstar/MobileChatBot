@@ -38,7 +38,17 @@ const ConversationDetailsItem = ({ value, title, type }) => {
             {title}
           </Text>
         </View>
-        
+        <View>
+          {link ? (
+            <Text sm color={colors.primaryColor} onPress={() => openURL({ URL: value })}>
+              {value}
+            </Text>
+          ) : (
+            <Text sm color={colors.textDark}>
+              {value}
+            </Text>
+          )}
+        </View>
       </View>
     </React.Fragment>
   );
