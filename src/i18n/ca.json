@@ -1,0 +1,253 @@
+{
+  "WELCOME": "Benvingut",
+  "COMMON": {
+    "ERROR": "Error",
+    "ERROR_TITLE": "S'ha produït un error inesperat",
+    "REPORT_MESSAGE": "Ho hem comunicat al nostre equip! Tanqueu l'aplicació i torneu a començar!",
+    "CLOSE": "Tancar"
+  },
+  "FOOTER": {
+    "HOME": "Inici",
+    "CONVERSATION": "Converses",
+    "NOTIFICATION": "Notificacions",
+    "SETTINGS": "Configuració"
+  },
+  "CONFIGURE_URL": {
+    "ENTER_URL": "URL d'instal·lació",
+    "DESCRIPTION": "If you are using a self-hosted Chatwoot installation, input your server URL. Otherwise, use app.chatwoot.com.",
+    "URL_ERROR": "Introduïu un URL vàlid",
+    "URL_REQUIRED": "URL is required",
+    "CONNECT": "Connectar",
+    "CHANGE_LANGUAGE": "Canviar d'idioma",
+    "ERROR": "URL d'instal·lació no vàlid"
+  },
+  "LOGIN": {
+    "TITLE": "Login to your account",
+    "DESCRIPTION": "You are connected to {{baseUrl}}. Login with your email address and password.",
+    "EMAIL": "Correu electrònic",
+    "PASSWORD": "Contrasenya",
+    "EMAIL_REQUIRED": "Email is required",
+    "EMAIL_ERROR": "Introduïu un correu electrònic vàlid",
+    "PASSWORD_REQUIRED": "Password is required",
+    "PASSWORD_ERROR": "Introduïu una contrasenya vàlida",
+    "LOGIN": "Inicia la sessió",
+    "FORGOT_PASSWORD": "Has oblidat la teva contrasenya?",
+    "RESET_HERE": "Restableix aquí",
+    "NO_ACCOUNT": "No teniu compte?",
+    "CREATE_ACCOUNT": "Crear un nou compte",
+    "SETTINGS": "Configuració",
+    "CHANGE_LANGUAGE": "Canviar d'idioma",
+    "TERMS": "Termes i Condicions",
+    "CHANGE_URL": "Canviar URL"
+  },
+  "FORGOT_PASSWORD": {
+    "EMAIL": "Introduïu el vostre correu electrònic",
+    "EMAIL_ERROR": "Introduïu un correu electrònic vàlid",
+    "RESET_HERE": "Restablir la contrasenya",
+    "HEADER_TITLE": "Restablir la contrasenya",
+    "TITLE": "Has oblidat la contrasenya?",
+    "SUB_TITLE": "No et preocupis! T'ajudarem",
+    "API_SUCCESS": "Password reset link has been sent to your email address"
+  },
+  "CONVERSATION": {
+    "DEFAULT_HEADER_TITLE": "Converses",
+    "UPDATING": "Updating...",
+    "MINE": "Les meves",
+    "UN_ASSIGNED": "Sense assignar",
+    "ALL": "Totes",
+    "EMPTY": "No hi ha converses actives en aquest grup.",
+    "PICTURE_CONTENT": "Missatge amb imatge",
+    "ATTACHMENT_CONTENT": "Fitxer adjunt",
+    "DOWNLOAD": "Descarregar",
+    "TODAY": "Avui",
+    "YESTERDAY": "Ahir",
+    "TYPE_MESSAGE": "Escriu un missatge",
+    "TYPING": "escrivint",
+    "ALL_CONVERSATION_LOADED": "S'han carregat totes les converses",
+    "ASSIGN": "Assign conversation",
+    "FILE_SIZE_LIMIT": "File exceeds the 5MB attachment limit",
+    "SHARE": "Share conversation",
+    "DETAILS": "Details",
+    "LABELS": "Conversation labels",
+    "ASSIGNED_AGENT": "Assigned agent",
+    "TEAM": "Team",
+    "PRIVATE_MSG_INPUT": "This will be visible only to Agents",
+    "SELF_ASSIGN": "Self assign conversation",
+    "UN_ASSIGN": "Unassign conversation",
+    "CONVERSATION_NOT_FOUND": "Could not fetch conversation",
+    "MARK_AS_PENDING": "Mark as pending",
+    "SNOOZE_UNTIL": "Snooze until",
+    "SNOOZE_UNTIL_NEXT_REPLY": "Until next reply",
+    "SNOOZE_UNTIL_TOMORROW": "Until tomorrow",
+    "SNOOZE_UNTIL_NEXT_WEEK": "Until next week",
+    "SNOOZE": "Snooze conversation",
+    "CHANGE_PRIORITY": "Change priority",
+    "MESSAGES": "Messages",
+    "UNDEFINED_VARIABLES_TITLE": "Undefined variables",
+    "UNDEFINED_VARIABLES_CLOSE": "Tancar",
+    "DELETE_MESSAGE_TITLE": "Are you sure you want to delete this message?",
+    "DELETE_MESSAGE_SUB_TITLE": "This action cannot be undone.",
+    "COPY_MESSAGE": "Message copied to clipboard",
+    "PRIORITY": {
+      "TITLE": "Priority",
+      "OPTIONS": {
+        "NONE": "Ningú",
+        "URGENT": "Urgent",
+        "HIGH": "High",
+        "MEDIUM": "Medium",
+        "LOW": "Low"
+      },
+      "CHANGE_PRIORITY": {
+        "SELECT_PLACEHOLDER": "Ningú",
+        "INPUT_PLACEHOLDER": "Select priority",
+        "NO_RESULTS": "No s'ha trobat agents",
+        "SUCCESSFUL": "Changed priority of conversation id %{conversationId} to %{priority}",
+        "FAILED": "Couldn't change priority. Please try again."
+      }
+    }
+  },
+  "FILTER": {
+    "ALL_INBOXES": "All inboxes",
+    "FILTER_BY_ASSIGNEE_TYPE": "Filter by assignee type",
+    "FILTER_BY_CONVERSATION_STATUS": "Filter by conversation status",
+    "SORT_BY": "Sort by",
+    "FILTER_BY_INBOX": "Filter by inbox",
+    "HEADER_TITLE": "Filtre de converses",
+    "CHOOSE_INBOX": "Trieu Safata d'entrada",
+    "CHOOSE_STATUS": "Estat de la conversa",
+    "OPEN": "Obrir",
+    "RESOLVED": "Resolt",
+    "BOT": "Bot",
+    "SUBMIT": "Trametre",
+    "PENDING": "Pending",
+    "SNOOZED": "Snoozed"
+  },
+  "SETTINGS": {
+    "HEADER_TITLE": "Configuració",
+    "SET_AVAILABILITY": "Set yourself as",
+    "PREFERENCES": "Preferences",
+    "ABOUT": "About",
+    "SUPPORT": "Support",
+    "SWITCH_ACCOUNT": "Canvia de compte",
+    "CHANGE_LANGUAGE": "Canviar d'idioma",
+    "NOTIFICATION_PREFERENCES": "Preferències de notificació",
+    "LOGOUT": "Tancar sessió",
+    "SUBMIT": "Trametre"
+  },
+  "NOTIFICATION": {
+    "HEADER_TITLE": "Notificacions",
+    "EMPTY": "Encara no hi ha notificacions.",
+    "EMPTY_MORE_TEXT": "Un cop comencis a rebre notificacions, apareixeran aquí.",
+    "ALL_NOTIFICATION_LOADED": "S'han carregat totes les notificacions",
+    "MARK_ALL": "Marcar tots com a llegits",
+    "CANCEL": "Cancel·lar"
+  },
+  "AVAILABILITY": {
+    "ONLINE": "En línia",
+    "BUSY": "Ocupat",
+    "OFFLINE": "Fora de línia"
+  },
+  "NOTIFICATION_PREFERENCE": {
+    "TITLE": "Preferències de notificació",
+    "EMAIL": "Notificacions per correu electrònic",
+    "PUSH": "Notificacions automàtiques",
+    "CONVERSATION_CREATE_PUSH": "Envia notificacions automàtiques quan es creï una conversa nova",
+    "CONVERSATION_ASSIGNEE_PUSH": "Envia notificacions automàtiques quan se m'assigna una conversa",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_PUSH": "Envia notificacions automàtiques quan es creï un missatge nou en una conversa assignada",
+    "CONVERSATION_MENTION": "Enviar notificacions push quan siguis esmentat en una conversació",
+    "CONVERSATION_PARTICIPATING_NEW_MESSAGE_PUSH": "Send push notifications when a new message is created in a participating conversation",
+    "CONVERSATION_CREATE_EMAIL": "Envia notificacions per correu electrònic quan es creï una conversa nova",
+    "CONVERSATION_ASSIGNEE_EMAIL": "Envia notificacions per correu electrònic quan se m'assigna una conversa",
+    "CONVERSATION_MENTION_EMAIL": "Enviar notificacions per mail quan siguis esmentat en una conversació",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_EMAIL": "Envia notificacions per correu electrònic quan es creï un missatge nou en una conversa assignada",
+    "CONVERSATION_PARTICIPATING_NEW_MESSAGE_EMAIL": "Send push notifications when a new message is created in a participating conversation"
+  },
+  "CONVERSATION_DETAILS": {
+    "TITLE": "Conversation Information",
+    "BROWSER": "Navegador",
+    "OPERATING_SYSTEM": "Sistema operatiu",
+    "INITIATED_AT": "Iniciada a",
+    "INITIATED_FROM": "Iniciat des de",
+    "IP_ADDRESS": "Adreça IP"
+  },
+  "CONVERSATION_PARTICIPANTS": {
+    "TITLE": "Conversation participants",
+    "TOTAL_PARTICIPANTS_TEXT": "%{count} people are participating.",
+    "TOTAL_PARTICIPANT_TEXT": "%{count} person is participating.",
+    "NO_PARTICIPANTS_TEXT": "No one is participating!.",
+    "WATCH_CONVERSATION": "Join conversation",
+    "YOU_ARE_WATCHING": "You are participating",
+    "NO_RECORDS_FOUND": "No s'ha trobat agents",
+    "SELECT_PARTICIPANTS": "Select agents",
+    "ADD_PARTICIPANTS": "Select participants",
+    "REMAINING_PARTICIPANTS_TEXT": "others",
+    "REMAINING_PARTICIPANT_TEXT": "other"
+  },
+  "CONTACT_ATTRIBUTES": {
+    "TITLE": "Contact Attributes"
+  },
+  "CONVERSATION_ACTION": {
+    "TITLE": "Accions"
+  },
+  "CONVERSATION_TEAMS": {
+    "TITLE": "Assign team",
+    "SELECT_TEAM": "Selecciona equip",
+    "NO_RESULT": "No team found"
+  },
+  "CONVERSATION_LABELS": {
+    "TITLE": "Etiquetes de converses",
+    "ADD_LABEL": "Add Labels",
+    "EMPTY_LIST": "Please add labels to your account",
+    "NO_LABEL": "No labels assigned",
+    "UPDATE_LABEL": "L'etiqueta s'ha actualitzat correctament",
+    "SELECTED": "Selected",
+    "NOT_SELECTED": "No labels selected",
+    "NO_RESULT": "No s'han trobat etiquetes"
+  },
+  "CONVERSATION_AGENTS": {
+    "TITLE": "Assign agent",
+    "SELECT_AGENT": "Seleccionar Agent",
+    "NO_RESULT": "No agent found"
+  },
+  "AGENT": {
+    "TITLE": "Seleccionar Agent"
+  },
+  "TEAMS": {
+    "TITLE": "Select Team",
+    "EMPTY": "Please add teams to your account to assign conversations to teams.",
+    "CHANGE_TEAMS": "Conversation team changed"
+  },
+  "ERRORS": {
+    "COMMON_ERROR": "No s'ha pogut connectar al servidor Woot. Torneu-ho a provar més tard",
+    "OfFLINE": "Has de connectar a la xarxa Wi-Fi o a una xarxa mòbil per tornar a connectar-te",
+    "CANNOT_FETCH": "S'ha produït un error en obtenir la informació. Torna-ho a provar",
+    "AUTH": "Nom d’usuari / contrasenya incorrecte. Si us plau torna-ho a provar",
+    "NO_ACCOUNTS_MESSAGE": "No tens accés a cap compte de chatwoot"
+  },
+  "SUCCESS": {
+    "AUTH": "Inici de sessió correcte"
+  },
+  "SERVER_UPGRADE": {
+    "TITLE": "Server upgrade required",
+    "WARNING_FOR_AGENT": "It seems like you are using unsupported Chatwoot server for your mobile app. Please contact your admin to upgrade your Chatwoot server.",
+    "WARNING_FOR_ADMIN": "It seems like you are using unsupported Chatwoot server for your mobile app. Upgrading to server version %{minimumVersion} or later is required."
+  },
+  "EXIT": {
+    "TITLE": "Sortir",
+    "SUBTITLE": "Estar segur que vols sortir?",
+    "CANCEL": "Cancel·lar",
+    "OK": "D'acord"
+  },
+  "BANNER": {
+    "TWILIO_WHATSAPP": {
+      "TEXT": "You can only reply to this conversation using a template message due to ",
+      "HREF_TEXT": "Restricció de finestra de missatges de 24 hores",
+      "HREF_LINK": "https://www.twilio.com/docs/whatsapp/tutorial/send-whatsapp-notification-messages-templates#sending-non-template-messages-within-a-24-hour-session"
+    },
+    "FACEBOOK": {
+      "TEXT": "You cannot reply due to ",
+      "HREF_TEXT": "Restricció de finestra de missatges de 24 hores",
+      "HREF_LINK": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/"
+    }
+  }
+}

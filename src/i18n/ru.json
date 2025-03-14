@@ -1,0 +1,253 @@
+{
+  "WELCOME": "Добро пожаловать",
+  "COMMON": {
+    "ERROR": "Ошибка",
+    "ERROR_TITLE": "Произошла непредвиденная ошибка",
+    "REPORT_MESSAGE": "Мы сообщили об этом нашей команде! Пожалуйста, закройте приложение и зайдите заново",
+    "CLOSE": "Закрыть"
+  },
+  "FOOTER": {
+    "HOME": "Главная",
+    "CONVERSATION": "Сообщения",
+    "NOTIFICATION": "Уведомления",
+    "SETTINGS": "Настройки"
+  },
+  "CONFIGURE_URL": {
+    "ENTER_URL": "URL установки",
+    "DESCRIPTION": "Если вы используете установку Chatwoot, введите URL вашего сервера. В противном случае используйте app.chatwoot.com.",
+    "URL_ERROR": "Введите правильный URL",
+    "URL_REQUIRED": "Необходимо указать URL",
+    "CONNECT": "Подключиться",
+    "CHANGE_LANGUAGE": "Изменить язык",
+    "ERROR": "Неправильный URL установки"
+  },
+  "LOGIN": {
+    "TITLE": "Войти в свой аккаунт",
+    "DESCRIPTION": "Вы подключены к {{baseUrl}}. Войдите с вашим адресом электронной почты и паролем.",
+    "EMAIL": "Почта",
+    "PASSWORD": "Пароль",
+    "EMAIL_REQUIRED": "Необходимо указать Email",
+    "EMAIL_ERROR": "Введите правильный email",
+    "PASSWORD_REQUIRED": "Необходимо указать пароль",
+    "PASSWORD_ERROR": "Введите корректный пароль",
+    "LOGIN": "Войти",
+    "FORGOT_PASSWORD": "Забыли пароль?",
+    "RESET_HERE": "Сбросить здесь",
+    "NO_ACCOUNT": "Нет учетной записи?",
+    "CREATE_ACCOUNT": "Создать новый аккаунт",
+    "SETTINGS": "Настройки",
+    "CHANGE_LANGUAGE": "Изменить язык",
+    "TERMS": "Условия использования",
+    "CHANGE_URL": "Изменить URL"
+  },
+  "FORGOT_PASSWORD": {
+    "EMAIL": "Пожалуйста, введите ваш email",
+    "EMAIL_ERROR": "Введите правильный email",
+    "RESET_HERE": "Сбросить пароль",
+    "HEADER_TITLE": "Сбросить пароль",
+    "TITLE": "Забыли пароль?",
+    "SUB_TITLE": "Не волнуйтесь! Все нормально",
+    "API_SUCCESS": "Ссылка для сброса пароля была отправлена на ваш email"
+  },
+  "CONVERSATION": {
+    "DEFAULT_HEADER_TITLE": "Разговоры",
+    "UPDATING": "Обновление...",
+    "MINE": "Мои",
+    "UN_ASSIGNED": "Неназначен",
+    "ALL": "Все",
+    "EMPTY": "В этой группе нет активных разговоров.",
+    "PICTURE_CONTENT": "Фото сообщение",
+    "ATTACHMENT_CONTENT": "Вложение файла",
+    "DOWNLOAD": "Скачать",
+    "TODAY": "Сегодня",
+    "YESTERDAY": "Вчера",
+    "TYPE_MESSAGE": "Введите сообщение",
+    "TYPING": "печатает",
+    "ALL_CONVERSATION_LOADED": "Все беседы загружены",
+    "ASSIGN": "Назначить ответсвенного",
+    "FILE_SIZE_LIMIT": "Файл превышает 5mb",
+    "SHARE": "Поделиться разговором",
+    "DETAILS": "Подробности",
+    "LABELS": "Метки разговора",
+    "ASSIGNED_AGENT": "Назначенный сотрудник",
+    "TEAM": "Команда",
+    "PRIVATE_MSG_INPUT": "Это будет видно только сотрудникам",
+    "SELF_ASSIGN": "Личное назначение разговора",
+    "UN_ASSIGN": "Отменить беседу",
+    "CONVERSATION_NOT_FOUND": "Не удалось получить диалог",
+    "MARK_AS_PENDING": "Отметить как ожидающие",
+    "SNOOZE_UNTIL": "Отложить до",
+    "SNOOZE_UNTIL_NEXT_REPLY": "До следующего ответа",
+    "SNOOZE_UNTIL_TOMORROW": "До завтра",
+    "SNOOZE_UNTIL_NEXT_WEEK": "До следующей недели",
+    "SNOOZE": "Отложить диалог",
+    "CHANGE_PRIORITY": "Изменить приоритет",
+    "MESSAGES": "Сообщения",
+    "UNDEFINED_VARIABLES_TITLE": "Неопределенные переменные",
+    "UNDEFINED_VARIABLES_CLOSE": "Закрыть",
+    "DELETE_MESSAGE_TITLE": "Вы действительно хотите удалить это сообщение?",
+    "DELETE_MESSAGE_SUB_TITLE": "Это действие не может быть отменено.",
+    "COPY_MESSAGE": "Сообщение скопировано в буфер обмена",
+    "PRIORITY": {
+      "TITLE": "Приоритет",
+      "OPTIONS": {
+        "NONE": "Ничего",
+        "URGENT": "Срочность",
+        "HIGH": "Высокая",
+        "MEDIUM": "Средняя",
+        "LOW": "Низкая"
+      },
+      "CHANGE_PRIORITY": {
+        "SELECT_PLACEHOLDER": "Ничего",
+        "INPUT_PLACEHOLDER": "Выберите приоритет",
+        "NO_RESULTS": "Результаты не найдены",
+        "SUCCESSFUL": "Изменен приоритет разговора id %{conversationId} на %{priority}",
+        "FAILED": "Не удалось изменить приоритет. Пожалуйста, попробуйте еще раз."
+      }
+    }
+  },
+  "FILTER": {
+    "ALL_INBOXES": "Все письма",
+    "FILTER_BY_ASSIGNEE_TYPE": "Фильтр по типу исполнителя",
+    "FILTER_BY_CONVERSATION_STATUS": "Фильтр по статусу разговора",
+    "SORT_BY": "Сортировать по",
+    "FILTER_BY_INBOX": "Фильтр по входящим",
+    "HEADER_TITLE": "Фильтр сообщений",
+    "CHOOSE_INBOX": "Выбрать входящие",
+    "CHOOSE_STATUS": "Статус разговора",
+    "OPEN": "Открытые",
+    "RESOLVED": "Закрыт",
+    "BOT": "Бот",
+    "SUBMIT": "Отправить",
+    "PENDING": "В ожидании",
+    "SNOOZED": "Отложено"
+  },
+  "SETTINGS": {
+    "HEADER_TITLE": "Настройки",
+    "SET_AVAILABILITY": "Установить себя",
+    "PREFERENCES": "Настройки",
+    "ABOUT": "О нас",
+    "SUPPORT": "Поддержка",
+    "SWITCH_ACCOUNT": "Сменить Аккаунт",
+    "CHANGE_LANGUAGE": "Изменить язык",
+    "NOTIFICATION_PREFERENCES": "Настройки уведомлений",
+    "LOGOUT": "Выход",
+    "SUBMIT": "Отправить"
+  },
+  "NOTIFICATION": {
+    "HEADER_TITLE": "Уведомления",
+    "EMPTY": "Уведомлений пока нет.",
+    "EMPTY_MORE_TEXT": "Как только вы начнете получать уведомления, они появятся здесь.",
+    "ALL_NOTIFICATION_LOADED": "Все уведомления загружены",
+    "MARK_ALL": "Отметить все как прочитанные",
+    "CANCEL": "Отменить"
+  },
+  "AVAILABILITY": {
+    "ONLINE": "В сети",
+    "BUSY": "Занят",
+    "OFFLINE": "Оффлайн"
+  },
+  "NOTIFICATION_PREFERENCE": {
+    "TITLE": "Настройки уведомлений",
+    "EMAIL": "Email Уведомления",
+    "PUSH": "Push уведомления",
+    "CONVERSATION_CREATE_PUSH": "Отправлять push уведомление, когда новый диалог создан",
+    "CONVERSATION_ASSIGNEE_PUSH": "Отправлять push уведомление при назначении мне диалога",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_PUSH": "Отправлять push уведомления при создании нового сообщения в назначенном диалоге",
+    "CONVERSATION_MENTION": "Отправлять уведомления при упоминании в разговоре",
+    "CONVERSATION_PARTICIPATING_NEW_MESSAGE_PUSH": "Отправлять push-уведомления при создании нового сообщения в участвующем разговоре",
+    "CONVERSATION_CREATE_EMAIL": "Отправлять email уведомление, когда новый диалог создан",
+    "CONVERSATION_ASSIGNEE_EMAIL": "Отправлять email уведомление, когда мне назначен диалог",
+    "CONVERSATION_MENTION_EMAIL": "Отправлять email уведомление, когда вас упоминают в диалоге",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_EMAIL": "Отправлять email уведомления при создании нового сообщения в назначенном диалоге",
+    "CONVERSATION_PARTICIPATING_NEW_MESSAGE_EMAIL": "Отправлять push-уведомления при создании нового сообщения в участвующем разговоре"
+  },
+  "CONVERSATION_DETAILS": {
+    "TITLE": "Информация о беседе",
+    "BROWSER": "Браузер",
+    "OPERATING_SYSTEM": "Операционная система",
+    "INITIATED_AT": "Начат в",
+    "INITIATED_FROM": "Начат из",
+    "IP_ADDRESS": "IP адрес"
+  },
+  "CONVERSATION_PARTICIPANTS": {
+    "TITLE": "Участники диалога",
+    "TOTAL_PARTICIPANTS_TEXT": "%{count} человек участвуют.",
+    "TOTAL_PARTICIPANT_TEXT": "%{count} человек участвуют.",
+    "NO_PARTICIPANTS_TEXT": "Никто не участвует!.",
+    "WATCH_CONVERSATION": "Присоединиться к диалогу",
+    "YOU_ARE_WATCHING": "Вы участвуете",
+    "NO_RECORDS_FOUND": "Результаты не найдены",
+    "SELECT_PARTICIPANTS": "Выбрать сотрудника",
+    "ADD_PARTICIPANTS": "Выберите участников",
+    "REMAINING_PARTICIPANTS_TEXT": "другие",
+    "REMAINING_PARTICIPANT_TEXT": "другое"
+  },
+  "CONTACT_ATTRIBUTES": {
+    "TITLE": "Атрибуты контакта"
+  },
+  "CONVERSATION_ACTION": {
+    "TITLE": "Действия"
+  },
+  "CONVERSATION_TEAMS": {
+    "TITLE": "Назначить команду",
+    "SELECT_TEAM": "Выберите команду",
+    "NO_RESULT": "Команда не найдена"
+  },
+  "CONVERSATION_LABELS": {
+    "TITLE": "Категории Диалога",
+    "ADD_LABEL": "Добавить метки",
+    "EMPTY_LIST": "Пожалуйста, добавьте ярлыки в свой аккаунт",
+    "NO_LABEL": "Ярлыки не назначены",
+    "UPDATE_LABEL": "Категория сохранена",
+    "SELECTED": "Selected",
+    "NOT_SELECTED": "No labels selected",
+    "NO_RESULT": "Метки не найдены"
+  },
+  "CONVERSATION_AGENTS": {
+    "TITLE": "Назначить агента",
+    "SELECT_AGENT": "Выбрать Агента",
+    "NO_RESULT": "Агент не найден"
+  },
+  "AGENT": {
+    "TITLE": "Выбрать Агента"
+  },
+  "TEAMS": {
+    "TITLE": "Выберите команду",
+    "EMPTY": "Пожалуйста, добавьте команды в свою учетную запись для назначения разговоров командам.",
+    "CHANGE_TEAMS": "Команда назначенная в беседу изменена"
+  },
+  "ERRORS": {
+    "COMMON_ERROR": "Не удается соединиться с сервером Woot, попробуйте позже",
+    "OfFLINE": "Вы должны подключиться к Wi-Fi или сотовой сети, чтобы снова войти в Интернет",
+    "CANNOT_FETCH": "При получении информации произошла ошибка. Повторите попытку",
+    "AUTH": "Неверное имя пользователя / пароль. Пожалуйста, попробуйте еще раз",
+    "NO_ACCOUNTS_MESSAGE": "У вас нет доступа ни к одной учетной записи chatwoot"
+  },
+  "SUCCESS": {
+    "AUTH": "Вход выполнен"
+  },
+  "SERVER_UPGRADE": {
+    "TITLE": "Требуется обновить сервер",
+    "WARNING_FOR_AGENT": "Похоже, вы используете неподдерживаемый сервер Chatwoot для своего мобильного приложения. Обратитесь к администратору, чтобы обновить сервер Chatwoot.",
+    "WARNING_FOR_ADMIN": "Похоже, вы используете неподдерживаемый сервер Chatwoot для своего мобильного приложения. Требуется обновление до версии сервера %{minimumVersion} или новее."
+  },
+  "EXIT": {
+    "TITLE": "Выйти",
+    "SUBTITLE": "Вы уверены, что хотите выйти?",
+    "CANCEL": "Отмена",
+    "OK": "Ок"
+  },
+  "BANNER": {
+    "TWILIO_WHATSAPP": {
+      "TEXT": "Вы можете ответить на этот разговор только с помощью шаблона ",
+      "HREF_TEXT": "Ограничение на 24 часа",
+      "HREF_LINK": "https://www.twilio.com/docs/whatsapp/tutorial/send-whatsapp-notification-messages-templates#sending-non-template-messages-within-a-24-hour-session"
+    },
+    "FACEBOOK": {
+      "TEXT": "Вы не можете ответить из-за ",
+      "HREF_TEXT": "Ограничение на 24 часа",
+      "HREF_LINK": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/"
+    }
+  }
+}

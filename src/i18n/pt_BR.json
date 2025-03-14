@@ -1,0 +1,253 @@
+{
+  "WELCOME": "Bem-vindo",
+  "COMMON": {
+    "ERROR": "Erro",
+    "ERROR_TITLE": "Ocorreu um erro inesperado",
+    "REPORT_MESSAGE": "Já relatamos isso para nossa equipe! Por favor, feche o aplicativo e comece novamente!",
+    "CLOSE": "Fechar"
+  },
+  "FOOTER": {
+    "HOME": "Principal",
+    "CONVERSATION": "Conversas",
+    "NOTIFICATION": "Notificações",
+    "SETTINGS": "Confirgurações"
+  },
+  "CONFIGURE_URL": {
+    "ENTER_URL": "URL de instalação",
+    "DESCRIPTION": "Se você estiver usando uma instalação auto-hospedada do Chatwoot, insira o URL do servidor. Caso contrário, use app.chatwoot.com.",
+    "URL_ERROR": "Insira uma URL válida",
+    "URL_REQUIRED": "URL é obrigatório",
+    "CONNECT": "Conectar",
+    "CHANGE_LANGUAGE": "Alterar idioma",
+    "ERROR": "Url de instalação inválida"
+  },
+  "LOGIN": {
+    "TITLE": "Acesse sua conta",
+    "DESCRIPTION": "Você está conectado a {{baseUrl}}. Entre com seu endereço de e-mail e senha.",
+    "EMAIL": "e-mail",
+    "PASSWORD": "Senha",
+    "EMAIL_REQUIRED": "E-mail é obrigatório",
+    "EMAIL_ERROR": "Digite um e-mail válido",
+    "PASSWORD_REQUIRED": "Senha obrigatória",
+    "PASSWORD_ERROR": "Digite uma senha válida",
+    "LOGIN": "Entrar",
+    "FORGOT_PASSWORD": "Esqueceu sua senha?",
+    "RESET_HERE": "Redefinir aqui",
+    "NO_ACCOUNT": "Não possui uma conta?",
+    "CREATE_ACCOUNT": "Criar nova conta",
+    "SETTINGS": "Confirgurações",
+    "CHANGE_LANGUAGE": "Alterar idioma",
+    "TERMS": "Termos & Condições",
+    "CHANGE_URL": "Alterar URL"
+  },
+  "FORGOT_PASSWORD": {
+    "EMAIL": "Por favor, digite seu e-mail",
+    "EMAIL_ERROR": "Digite um e-mail válido",
+    "RESET_HERE": "Redefinir senha",
+    "HEADER_TITLE": "Redefinir senha",
+    "TITLE": "Esqueceu a Senha?",
+    "SUB_TITLE": "Não se preocupe! Nós te protegemos",
+    "API_SUCCESS": "O link de redefinição de senha foi enviado para o seu endereço de e-mail"
+  },
+  "CONVERSATION": {
+    "DEFAULT_HEADER_TITLE": "Conversas",
+    "UPDATING": "Atualizando...",
+    "MINE": "Minha",
+    "UN_ASSIGNED": "Não atribuída",
+    "ALL": "Todas",
+    "EMPTY": "Não há conversas ativas neste grupo.",
+    "PICTURE_CONTENT": "Mensagem de imagem",
+    "ATTACHMENT_CONTENT": "Anexo",
+    "DOWNLOAD": "Download",
+    "TODAY": "Hoje",
+    "YESTERDAY": "Ontem",
+    "TYPE_MESSAGE": "Tipo da Mensagem",
+    "TYPING": "digitando",
+    "ALL_CONVERSATION_LOADED": "Todas as conversas foram carregadas",
+    "ASSIGN": "Atribuir conversa",
+    "FILE_SIZE_LIMIT": "O arquivo excede o limite de anexos de 5MB",
+    "SHARE": "Compartilhar conversa",
+    "DETAILS": "Detalhes",
+    "LABELS": "Marcadores da conversa",
+    "ASSIGNED_AGENT": "Agente atribuído",
+    "TEAM": "Times",
+    "PRIVATE_MSG_INPUT": "Isto será visível apenas para Agentes",
+    "SELF_ASSIGN": "Autoatribuir conversa",
+    "UN_ASSIGN": "Desassociar conversa",
+    "CONVERSATION_NOT_FOUND": "Não foi possível obter a conversa",
+    "MARK_AS_PENDING": "Marcar como pendente",
+    "SNOOZE_UNTIL": "Suspender até",
+    "SNOOZE_UNTIL_NEXT_REPLY": "Até a próxima resposta",
+    "SNOOZE_UNTIL_TOMORROW": "Até amanhã",
+    "SNOOZE_UNTIL_NEXT_WEEK": "Até a próxima semana",
+    "SNOOZE": "Adiar conversa",
+    "CHANGE_PRIORITY": "Aletrar prioridade",
+    "MESSAGES": "Mensagens",
+    "UNDEFINED_VARIABLES_TITLE": "Variáveis não definidas",
+    "UNDEFINED_VARIABLES_CLOSE": "Fechar",
+    "DELETE_MESSAGE_TITLE": "Você tem certeza que deseja excluir esta mensagem?",
+    "DELETE_MESSAGE_SUB_TITLE": "Esta ação não pode ser desfeita.",
+    "COPY_MESSAGE": "Mensagem copiada para área de transferência",
+    "PRIORITY": {
+      "TITLE": "Prioridade",
+      "OPTIONS": {
+        "NONE": "Nenhuma",
+        "URGENT": "Urgente",
+        "HIGH": "Alta",
+        "MEDIUM": "Média",
+        "LOW": "Baixa"
+      },
+      "CHANGE_PRIORITY": {
+        "SELECT_PLACEHOLDER": "Nenhuma",
+        "INPUT_PLACEHOLDER": "Selecionar prioridade",
+        "NO_RESULTS": "Nenhum resultado encontrado",
+        "SUCCESSFUL": "Alterada a prioridade do ID da conversa %{conversationId} para %{priority}",
+        "FAILED": "Não foi possível alterar a prioridade. Por favor, tente novamente."
+      }
+    }
+  },
+  "FILTER": {
+    "ALL_INBOXES": "Todas as caixas de entrada",
+    "FILTER_BY_ASSIGNEE_TYPE": "Filtrar por tipo de responsável",
+    "FILTER_BY_CONVERSATION_STATUS": "Filtrar por estado da conversa",
+    "SORT_BY": "Ordenar por",
+    "FILTER_BY_INBOX": "Filtrar por caixa de entrada",
+    "HEADER_TITLE": "Filtro da Conversa",
+    "CHOOSE_INBOX": "Selecionar Caixa de Entrada",
+    "CHOOSE_STATUS": "Status da conversa",
+    "OPEN": "Abrir",
+    "RESOLVED": "Resolvida",
+    "BOT": "Bot",
+    "SUBMIT": "Enviar",
+    "PENDING": "Pendente",
+    "SNOOZED": "Adiado"
+  },
+  "SETTINGS": {
+    "HEADER_TITLE": "Confirgurações",
+    "SET_AVAILABILITY": "Defina como",
+    "PREFERENCES": "Preferências",
+    "ABOUT": "Sobre",
+    "SUPPORT": "Suporte",
+    "SWITCH_ACCOUNT": "Alterar conta",
+    "CHANGE_LANGUAGE": "Alterar Idioma",
+    "NOTIFICATION_PREFERENCES": "Preferências de Notificação",
+    "LOGOUT": "Sair",
+    "SUBMIT": "Enviar"
+  },
+  "NOTIFICATION": {
+    "HEADER_TITLE": "Notificações",
+    "EMPTY": "Ainda não há notificações.",
+    "EMPTY_MORE_TEXT": "Quando você começar a receber notificações, elas aparecerão aqui.",
+    "ALL_NOTIFICATION_LOADED": "Todas as notificações carregadas",
+    "MARK_ALL": "Marcar todas como lidas",
+    "CANCEL": "Cancelar"
+  },
+  "AVAILABILITY": {
+    "ONLINE": "Online",
+    "BUSY": "Ocupado",
+    "OFFLINE": "Offline"
+  },
+  "NOTIFICATION_PREFERENCE": {
+    "TITLE": "Preferências de Notificação",
+    "EMAIL": "Notificações por e-mail",
+    "PUSH": "Notificações via Push",
+    "CONVERSATION_CREATE_PUSH": "Enviar notificações push quando uma nova conversa é criada",
+    "CONVERSATION_ASSIGNEE_PUSH": "Enviar notificações push quando uma conversa é atribuída para mim",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_PUSH": "Enviar notificações push quando uma nova mensagem é criada em uma conversa atribuída",
+    "CONVERSATION_MENTION": "Enviar notificações push quando você for mencionado em uma conversa",
+    "CONVERSATION_PARTICIPATING_NEW_MESSAGE_PUSH": "Enviar notificações push quando uma nova mensagem é criada em uma conversa que você participa",
+    "CONVERSATION_CREATE_EMAIL": "Enviar notificações push quando uma nova conversa é criada",
+    "CONVERSATION_ASSIGNEE_EMAIL": "Enviar notificações por email quando uma conversa é atribuída a mim",
+    "CONVERSATION_MENTION_EMAIL": "Enviar notificações por email quando você for mencionado em uma conversa",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_EMAIL": "Enviar notificações por email quando uma nova mensagem é criada em uma conversa atribuída",
+    "CONVERSATION_PARTICIPATING_NEW_MESSAGE_EMAIL": "Enviar notificações push quando uma nova mensagem é criada em uma conversa que você participa"
+  },
+  "CONVERSATION_DETAILS": {
+    "TITLE": "Informação da conversa",
+    "BROWSER": "Navegador",
+    "OPERATING_SYSTEM": "Sistema Operacional",
+    "INITIATED_AT": "Iniciada em",
+    "INITIATED_FROM": "Iniciado por",
+    "IP_ADDRESS": "Endereço IP"
+  },
+  "CONVERSATION_PARTICIPANTS": {
+    "TITLE": "Participantes da conversa",
+    "TOTAL_PARTICIPANTS_TEXT": "%{count} pessoas estão participando.",
+    "TOTAL_PARTICIPANT_TEXT": "%{count} pessoa está participando.",
+    "NO_PARTICIPANTS_TEXT": "Ninguém está participando!",
+    "WATCH_CONVERSATION": "Participar da conversa",
+    "YOU_ARE_WATCHING": "Você está participando",
+    "NO_RECORDS_FOUND": "Nenhum resultado encontrado",
+    "SELECT_PARTICIPANTS": "Selecionar agentes",
+    "ADD_PARTICIPANTS": "Selecionar participantes",
+    "REMAINING_PARTICIPANTS_TEXT": "outros",
+    "REMAINING_PARTICIPANT_TEXT": "outro"
+  },
+  "CONTACT_ATTRIBUTES": {
+    "TITLE": "Atributos do contato"
+  },
+  "CONVERSATION_ACTION": {
+    "TITLE": "Ações"
+  },
+  "CONVERSATION_TEAMS": {
+    "TITLE": "Atribuir equipe",
+    "SELECT_TEAM": "Selecionar time",
+    "NO_RESULT": "Nenhuma equipe encontrada"
+  },
+  "CONVERSATION_LABELS": {
+    "TITLE": "Marcador da conversa",
+    "ADD_LABEL": "Adicionar marcador",
+    "EMPTY_LIST": "Por favor, adicione marcadores à sua conta",
+    "NO_LABEL": "Nenhum marcador atribuído",
+    "UPDATE_LABEL": "Marcador atualizado com sucesso",
+    "SELECTED": "Selecionar",
+    "NOT_SELECTED": "Nenhum marcador selecionado",
+    "NO_RESULT": "Nenhum rótulo encontrado"
+  },
+  "CONVERSATION_AGENTS": {
+    "TITLE": "Atribuir Agente",
+    "SELECT_AGENT": "Selecionar agente",
+    "NO_RESULT": "Nenhum agente encontrado"
+  },
+  "AGENT": {
+    "TITLE": "Selecione o Agent"
+  },
+  "TEAMS": {
+    "TITLE": "Selecionar time",
+    "EMPTY": "Adicione equipes à sua conta para atribuir conversas a equipes.",
+    "CHANGE_TEAMS": "Estado da conversa mudou"
+  },
+  "ERRORS": {
+    "COMMON_ERROR": "Não foi possível conectar ao servidor Woot, por favor tente novamente mais tarde",
+    "OfFLINE": "Você precisa se conectar ao Wi-Fi ou a uma rede celular para ficar online novamente",
+    "CANNOT_FETCH": "Ocorreu um erro ao buscar as informações, por favor, tente novamente",
+    "AUTH": "Nome de usuário / senha incorreta. Por favor, tente novamente",
+    "NO_ACCOUNTS_MESSAGE": "Você não tem acesso a nenhuma conta no chatwoot"
+  },
+  "SUCCESS": {
+    "AUTH": "Acesso bem sucedido"
+  },
+  "SERVER_UPGRADE": {
+    "TITLE": "Atualização do servidor necessária",
+    "WARNING_FOR_AGENT": "Parece que você está usando um servidor Chatwoot não suportado para o seu aplicativo móvel. Por favor, entre em contato com seu administrador para atualizar o servidor Chatwoot.",
+    "WARNING_FOR_ADMIN": "Parece que você está usando um servidor Chatwoot não suportado para o seu aplicativo móvel. Fazer o upgrade para a versão do servidor %{minimumVersion} ou posterior é necessário."
+  },
+  "EXIT": {
+    "TITLE": "Sair",
+    "SUBTITLE": "Tem certeza de que deseja sair?",
+    "CANCEL": "Cancelar",
+    "OK": "Ok"
+  },
+  "BANNER": {
+    "TWILIO_WHATSAPP": {
+      "TEXT": "Você só pode responder a esta conversa usando um template de mensagem devido ",
+      "HREF_TEXT": "Restrições de janela de mensagem de 24 horas",
+      "HREF_LINK": "https://www.twilio.com/docs/whatsapp/tutorial/send-whatsapp-notification-messages-templates#sending-non-template-messages-within-a-24-session"
+    },
+    "FACEBOOK": {
+      "TEXT": "Você não pode responder devido a ",
+      "HREF_TEXT": "Restrições de janela de mensagem de 24 horas",
+      "HREF_LINK": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/"
+    }
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "WELCOME": "Willkommen",
+  "COMMON": {
+    "ERROR": "Fehler",
+    "ERROR_TITLE": "Ein unerwarteter Fehler ist aufgetreten",
+    "REPORT_MESSAGE": "Wir haben das Team benachrichtigt ! Bitte schließen Sie die App und starten Sie erneut!",
+    "CLOSE": "Schließen"
+  },
+  "FOOTER": {
+    "HOME": "Start",
+    "CONVERSATION": "Konversationen",
+    "NOTIFICATION": "Benachrichtigungen",
+    "SETTINGS": "Einstellungen"
+  },
+  "CONFIGURE_URL": {
+    "ENTER_URL": "Installations URL",
+    "DESCRIPTION": "Wenn Sie eine selbst gehostete Chatwoot-Installation verwenden, geben Sie Ihre Server-URL ein. Andernfalls verwenden Sie app.chatwoot.com.",
+    "URL_ERROR": "Geben Sie eine gültige URL ein",
+    "URL_REQUIRED": "URL ist erforderlich",
+    "CONNECT": "Verbinden",
+    "CHANGE_LANGUAGE": "Sprache ändern",
+    "ERROR": "Ungültige Installations URL"
+  },
+  "LOGIN": {
+    "TITLE": "Bei Ihrem Konto anmelden",
+    "DESCRIPTION": "Sie sind mit {{baseUrl}} verbunden. Melden Sie sich mit Ihrer E-Mail-Adresse und Ihrem Passwort an.",
+    "EMAIL": "E-Mail",
+    "PASSWORD": "Passwort",
+    "EMAIL_REQUIRED": "E-Mail ist erforderlich",
+    "EMAIL_ERROR": "Geben Sie eine gültige Email ein",
+    "PASSWORD_REQUIRED": "Passwort ist erforderlich",
+    "PASSWORD_ERROR": "Geben Sie ein gültiges Passwort ein",
+    "LOGIN": "Anmelden",
+    "FORGOT_PASSWORD": "Passwort vergessen?",
+    "RESET_HERE": "Hier zurücksetzen",
+    "NO_ACCOUNT": "Sie haben kein Konto?",
+    "CREATE_ACCOUNT": "Konto erstellen",
+    "SETTINGS": "Einstellungen",
+    "CHANGE_LANGUAGE": "Sprache ändern",
+    "TERMS": "Geschäftsbedingungen",
+    "CHANGE_URL": "URL ändern"
+  },
+  "FORGOT_PASSWORD": {
+    "EMAIL": "Bitte geben Sie Ihre E-Mail ein",
+    "EMAIL_ERROR": "Geben Sie eine gültige Email ein",
+    "RESET_HERE": "Passwort zurücksetzen",
+    "HEADER_TITLE": "Passwort zurücksetzen",
+    "TITLE": "Passwort vergessen?",
+    "SUB_TITLE": "Keine Sorge! Wir passen auf",
+    "API_SUCCESS": "Der Link zum Zurücksetzen des Passworts wurde an Ihre E-Mail-Adresse gesendet"
+  },
+  "CONVERSATION": {
+    "DEFAULT_HEADER_TITLE": "Konversationen",
+    "UPDATING": "Aktualisieren...",
+    "MINE": "Meine",
+    "UN_ASSIGNED": "Nicht zugeordnet",
+    "ALL": "Alle",
+    "EMPTY": "In dieser Gruppe gibt es keine aktiven Koversationen.",
+    "PICTURE_CONTENT": "Bildnachricht",
+    "ATTACHMENT_CONTENT": "Datei-Anhang",
+    "DOWNLOAD": "Download",
+    "TODAY": "Heute",
+    "YESTERDAY": "Gestern",
+    "TYPE_MESSAGE": "Nachricht eingeben",
+    "TYPING": "tippt",
+    "ALL_CONVERSATION_LOADED": "Alle Konversationen geladen",
+    "ASSIGN": "Konversation zuweisen",
+    "FILE_SIZE_LIMIT": "Datei überschreitet das Limit von 5 MB",
+    "SHARE": "Konversation teilen",
+    "DETAILS": "Details",
+    "LABELS": "Konversationslabels",
+    "ASSIGNED_AGENT": "Zugewiesener Agent",
+    "TEAM": "Team",
+    "PRIVATE_MSG_INPUT": "Dies ist nur für Agenten sichtbar",
+    "SELF_ASSIGN": "Konversation selbst zuweisen",
+    "UN_ASSIGN": "Zuweisung entfernen",
+    "CONVERSATION_NOT_FOUND": "Unterhaltung konnte nicht abgerufen werden",
+    "MARK_AS_PENDING": "Als ausstehend markieren",
+    "SNOOZE_UNTIL": "Schlummern bis",
+    "SNOOZE_UNTIL_NEXT_REPLY": "Bis zur nächsten Antwort",
+    "SNOOZE_UNTIL_TOMORROW": "Bis morgen",
+    "SNOOZE_UNTIL_NEXT_WEEK": "Bis nächste Woche",
+    "SNOOZE": "Konversation schlummern",
+    "CHANGE_PRIORITY": "Change priority",
+    "MESSAGES": "Nachrichten",
+    "UNDEFINED_VARIABLES_TITLE": "Undefinierte Variablen",
+    "UNDEFINED_VARIABLES_CLOSE": "Schließen",
+    "DELETE_MESSAGE_TITLE": "Sind Sie sicher, dass Sie diese Nachricht löschen möchten?",
+    "DELETE_MESSAGE_SUB_TITLE": "This action cannot be undone.",
+    "COPY_MESSAGE": "Message copied to clipboard",
+    "PRIORITY": {
+      "TITLE": "Priorität",
+      "OPTIONS": {
+        "NONE": "Keine",
+        "URGENT": "Dringend",
+        "HIGH": "Hoch",
+        "MEDIUM": "Mittel",
+        "LOW": "Niedrig"
+      },
+      "CHANGE_PRIORITY": {
+        "SELECT_PLACEHOLDER": "Keine",
+        "INPUT_PLACEHOLDER": "Priorität auswählen",
+        "NO_RESULTS": "Keine Ergebnisse gefunden",
+        "SUCCESSFUL": "Priorität der Konversations-ID %{conversationId} zu %{priority} geändert",
+        "FAILED": "Priorität konnte nicht geändert werden. Bitte versuchen Sie es erneut."
+      }
+    }
+  },
+  "FILTER": {
+    "ALL_INBOXES": "Alle Posteingänge",
+    "FILTER_BY_ASSIGNEE_TYPE": "Filtern Sie nach Mitarbeitertyp",
+    "FILTER_BY_CONVERSATION_STATUS": "Filtern nach Konversationsstatus",
+    "SORT_BY": "Sortieren nach",
+    "FILTER_BY_INBOX": "Filtern nach Posteingang",
+    "HEADER_TITLE": "Konversations-Filter",
+    "CHOOSE_INBOX": "Posteingang auswählen",
+    "CHOOSE_STATUS": "Konversationsstatus",
+    "OPEN": "Öffnen",
+    "RESOLVED": "Gelöst",
+    "BOT": "Bot",
+    "SUBMIT": "Senden",
+    "PENDING": "Ausstehend",
+    "SNOOZED": "Erinnern"
+  },
+  "SETTINGS": {
+    "HEADER_TITLE": "Einstellungen",
+    "SET_AVAILABILITY": "Setzen Sie sich als",
+    "PREFERENCES": "Einstellungen",
+    "ABOUT": "Über",
+    "SUPPORT": "Support",
+    "SWITCH_ACCOUNT": "Konto wechseln",
+    "CHANGE_LANGUAGE": "Sprache ändern",
+    "NOTIFICATION_PREFERENCES": "Benachrichtigungseinstellungen",
+    "LOGOUT": "Abmelden",
+    "SUBMIT": "Senden"
+  },
+  "NOTIFICATION": {
+    "HEADER_TITLE": "Benachrichtigungen",
+    "EMPTY": "Noch keine Benachrichtigungen.",
+    "EMPTY_MORE_TEXT": "Sobald Sie anfangen, Benachrichtigungen zu erhalten, werden sie hier erscheinen.",
+    "ALL_NOTIFICATION_LOADED": "Alle Benachrichtigungen geladen",
+    "MARK_ALL": "Alle als gelesen markieren",
+    "CANCEL": "Abbrechen"
+  },
+  "AVAILABILITY": {
+    "ONLINE": "Online",
+    "BUSY": "Beschäftigt",
+    "OFFLINE": "Offline"
+  },
+  "NOTIFICATION_PREFERENCE": {
+    "TITLE": "Benachrichtigungseinstellungen",
+    "EMAIL": "E-Mail Benachrichtigungen",
+    "PUSH": "Push-Benachrichtigungen",
+    "CONVERSATION_CREATE_PUSH": "Sende Push-Benachrichtigungen, wenn eine neue Konversation erstellt wird",
+    "CONVERSATION_ASSIGNEE_PUSH": "Sende Push-Benachrichtigungen, wenn mir eine Konversation zugewiesen ist",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_PUSH": "Sende Push-Benachrichtigungen, wenn eine neue Nachricht in einer zugewiesenen Konversation erstellt wird",
+    "CONVERSATION_MENTION": "Senden Sie Push-Benachrichtigungen, wenn Sie in einer Konversation erwähnt werden",
+    "CONVERSATION_PARTICIPATING_NEW_MESSAGE_PUSH": "Sende Push-Benachrichtigungen, wenn eine neue Nachricht in einer zugewiesenen Konversation erstellt wird",
+    "CONVERSATION_CREATE_EMAIL": "E-Mail-Benachrichtigungen senden, wenn eine neue Konversation erstellt wird",
+    "CONVERSATION_ASSIGNEE_EMAIL": "E-Mail-Benachrichtigungen senden, wenn mir eine Konversation zugewiesen wird",
+    "CONVERSATION_MENTION_EMAIL": "Senden Sie E-Mail-Benachrichtigungen, wenn Sie in einer Konversation erwähnt werden",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_EMAIL": "E-Mail-Benachrichtigungen senden, wenn eine neue Nachricht in einer zugewiesenen Konversation erstellt wird",
+    "CONVERSATION_PARTICIPATING_NEW_MESSAGE_EMAIL": "Sende Push-Benachrichtigungen, wenn eine neue Nachricht in einer zugewiesenen Konversation erstellt wird"
+  },
+  "CONVERSATION_DETAILS": {
+    "TITLE": "Konversationsinformationen",
+    "BROWSER": "Browser",
+    "OPERATING_SYSTEM": "Betriebssystem",
+    "INITIATED_AT": "Initiiert am",
+    "INITIATED_FROM": "Initiiert von",
+    "IP_ADDRESS": "IP-Adresse"
+  },
+  "CONVERSATION_PARTICIPANTS": {
+    "TITLE": "Konversationsteilnehmer",
+    "TOTAL_PARTICIPANTS_TEXT": "%{count} Personen nehmen teil.",
+    "TOTAL_PARTICIPANT_TEXT": "%{count} Person nimmt teil.",
+    "NO_PARTICIPANTS_TEXT": "Niemand nimmt teil!.",
+    "WATCH_CONVERSATION": "Konversation beitreten",
+    "YOU_ARE_WATCHING": "Sie nehmen teil",
+    "NO_RECORDS_FOUND": "Keine Ergebnisse gefunden",
+    "SELECT_PARTICIPANTS": "Select agents",
+    "ADD_PARTICIPANTS": "Teilnehmer wählen",
+    "REMAINING_PARTICIPANTS_TEXT": "others",
+    "REMAINING_PARTICIPANT_TEXT": "other"
+  },
+  "CONTACT_ATTRIBUTES": {
+    "TITLE": "Kontakt-Attribute"
+  },
+  "CONVERSATION_ACTION": {
+    "TITLE": "Aktionen"
+  },
+  "CONVERSATION_TEAMS": {
+    "TITLE": "Team zuweisen",
+    "SELECT_TEAM": "Team auswählen",
+    "NO_RESULT": "Kein Team gefunden"
+  },
+  "CONVERSATION_LABELS": {
+    "TITLE": "Konversationsetiketten",
+    "ADD_LABEL": "Label hinzufügen",
+    "EMPTY_LIST": "Bitte fügen Sie Labels zu Ihrem Konto hinzu",
+    "NO_LABEL": "Keine Labels zugewiesen",
+    "UPDATE_LABEL": "Label wurde erfolgreich aktualisiert",
+    "SELECTED": "Ausgewählt",
+    "NOT_SELECTED": "Keine Label ausgewählt",
+    "NO_RESULT": "Keine Labels gefunden"
+  },
+  "CONVERSATION_AGENTS": {
+    "TITLE": "Agent zuweisen",
+    "SELECT_AGENT": "Agent auswählen",
+    "NO_RESULT": "Keine Agenten gefunden"
+  },
+  "AGENT": {
+    "TITLE": "Agent auswählen"
+  },
+  "TEAMS": {
+    "TITLE": "Team auswählen",
+    "EMPTY": "Bitte fügen Sie Teams zu Ihrem Konto hinzu, um Teams Unterhaltungen zuzuweisen.",
+    "CHANGE_TEAMS": "Das Konversationsteam hat sich geändert"
+  },
+  "ERRORS": {
+    "COMMON_ERROR": "Konnte keine Verbindung zum Woot-Server herstellen, bitte versuchen Sie es später erneut",
+    "OfFLINE": "Sie müssen eine Verbindung zu einem Wlan- oder Mobilfunknetz herstellen, um wieder online zu gehen",
+    "CANNOT_FETCH": "Beim Abrufen der Informationen ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut",
+    "AUTH": "Benutzername / Passwort falsch. Bitte versuchen Sie es erneut",
+    "NO_ACCOUNTS_MESSAGE": "Sie haben keinen Zugriff auf Chatwoot-Konten"
+  },
+  "SUCCESS": {
+    "AUTH": "Anmeldung erfolgreich"
+  },
+  "SERVER_UPGRADE": {
+    "TITLE": "Server-Upgrade erforderlich",
+    "WARNING_FOR_AGENT": "Anscheinend verwenden Sie einen nicht unterstützten Chatwoot-Server für Ihre mobile App. Bitte wenden Sie sich an Ihren Administrator, um Ihren Chatwoot-Server zu aktualisieren.",
+    "WARNING_FOR_ADMIN": "Anscheinend verwenden Sie einen nicht unterstützten Chatwoot-Server für Ihre mobile App. Ein Upgrade auf die Serverversion %{minimumVersion} oder höher ist erforderlich."
+  },
+  "EXIT": {
+    "TITLE": "Beenden",
+    "SUBTITLE": "Sind Sie sicher, dass Sie beenden möchten?",
+    "CANCEL": "Abbrechen",
+    "OK": "Ok"
+  },
+  "BANNER": {
+    "TWILIO_WHATSAPP": {
+      "TEXT": "Sie können auf diese Konversation nur mit einer Nachrichtenvorlage antworten wegen ",
+      "HREF_TEXT": "Beschränkung des 24-Stunden-Nachrichtenfensters",
+      "HREF_LINK": "https://www.twilio.com/docs/whatsapp/tutorial/send-whatsapp-notification-messages-templates#sending-non-template-messages-within-a-24-hour-session"
+    },
+    "FACEBOOK": {
+      "TEXT": "Sie können nicht antworten, weil ",
+      "HREF_TEXT": "Beschränkung des 24-Stunden-Nachrichtenfensters",
+      "HREF_LINK": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/?translation"
+    }
+  }
+}

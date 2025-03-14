@@ -1,0 +1,253 @@
+{
+  "WELCOME": "Вітаємо",
+  "COMMON": {
+    "ERROR": "Помилка",
+    "ERROR_TITLE": "Сталася неочікувана помилка",
+    "REPORT_MESSAGE": "Ми повідомили про це нашій команді! Будь ласка, закрийте додаток та почніть знову!",
+    "CLOSE": "Закрити"
+  },
+  "FOOTER": {
+    "HOME": "Головна",
+    "CONVERSATION": "Бесіди",
+    "NOTIFICATION": "Сповіщення",
+    "SETTINGS": "Налаштування"
+  },
+  "CONFIGURE_URL": {
+    "ENTER_URL": "URL-адреса встановлення",
+    "DESCRIPTION": "Якщо ви використовуєте власну установку Chatwoot, введіть URL-адресу свого сервера. В іншому випадку використовуйте app.chatwoot.com.",
+    "URL_ERROR": "Введіть дійсну URL-адресу домену",
+    "URL_REQUIRED": "URL-адреса обов'язкова",
+    "CONNECT": "Під'єднатися",
+    "CHANGE_LANGUAGE": "Змінити мову",
+    "ERROR": "Хибна URL-адреса встановлення"
+  },
+  "LOGIN": {
+    "TITLE": "Увійти до облікового запису",
+    "DESCRIPTION": "Ви підключені до {{baseUrl}}. Увійдіть за допомогою своєї адреси електронної пошти та пароля.",
+    "EMAIL": "Email",
+    "PASSWORD": "Пароль",
+    "EMAIL_REQUIRED": "Необхідно вказати електронну адресу",
+    "EMAIL_ERROR": "Введіть дійсну адресу електронної пошти",
+    "PASSWORD_REQUIRED": "Необхідно вказати пароль",
+    "PASSWORD_ERROR": "Введіть дійсний пароль",
+    "LOGIN": "Увійти",
+    "FORGOT_PASSWORD": "Забули пароль?",
+    "RESET_HERE": "Скинути тут",
+    "NO_ACCOUNT": "Немає облікового запису?",
+    "CREATE_ACCOUNT": "Створити новий обліковий запис",
+    "SETTINGS": "Налаштування",
+    "CHANGE_LANGUAGE": "Змінити мову",
+    "TERMS": "Правила та Умови",
+    "CHANGE_URL": "Змінити URL-адресу"
+  },
+  "FORGOT_PASSWORD": {
+    "EMAIL": "Введіть адресу електронної пошти",
+    "EMAIL_ERROR": "Введіть дійсну адресу електронної пошти",
+    "RESET_HERE": "Скинути пароль",
+    "HEADER_TITLE": "Скинути пароль",
+    "TITLE": "Забули пароль?",
+    "SUB_TITLE": "Don't worry! We got your back",
+    "API_SUCCESS": "Посилання для зміни пароля було надіслано на вашу електронну пошту"
+  },
+  "CONVERSATION": {
+    "DEFAULT_HEADER_TITLE": "Бесіди",
+    "UPDATING": "Оновлення...",
+    "MINE": "Мої",
+    "UN_ASSIGNED": "Непризначені",
+    "ALL": "Всі",
+    "EMPTY": "В цій групі немає активних бесід.",
+    "PICTURE_CONTENT": "Повідомлення з картинкою",
+    "ATTACHMENT_CONTENT": "Повідомлення з файлом",
+    "DOWNLOAD": "Звантажити",
+    "TODAY": "Сьогодні",
+    "YESTERDAY": "Вчора",
+    "TYPE_MESSAGE": "Введіть повідомлення",
+    "TYPING": "друкує",
+    "ALL_CONVERSATION_LOADED": "Всі бесіди завантажено",
+    "ASSIGN": "Призначити бесіду",
+    "FILE_SIZE_LIMIT": "Файл перевищує ліміт вкладення у 5 МБ",
+    "SHARE": "Share conversation",
+    "DETAILS": "Подробиці",
+    "LABELS": "Мітки бесіди",
+    "ASSIGNED_AGENT": "Призначений агент",
+    "TEAM": "Команда",
+    "PRIVATE_MSG_INPUT": "Це буде видно лише співробітникам",
+    "SELF_ASSIGN": "Призначити бесіду собі",
+    "UN_ASSIGN": "Скасувати призначення бесіди",
+    "CONVERSATION_NOT_FOUND": "Не вдалося завантажити бесіду",
+    "MARK_AS_PENDING": "Позначити як \"В очікуванні\"",
+    "SNOOZE_UNTIL": "Відкласти до",
+    "SNOOZE_UNTIL_NEXT_REPLY": "До наступної відповіді",
+    "SNOOZE_UNTIL_TOMORROW": "До завтра",
+    "SNOOZE_UNTIL_NEXT_WEEK": "До наступного тижня",
+    "SNOOZE": "Snooze conversation",
+    "CHANGE_PRIORITY": "Змінити пріоритет",
+    "MESSAGES": "Текст повідомлень",
+    "UNDEFINED_VARIABLES_TITLE": "Невизначені змінні",
+    "UNDEFINED_VARIABLES_CLOSE": "Закрити",
+    "DELETE_MESSAGE_TITLE": "Ви справді бажаєте вилучити це повідомлення?",
+    "DELETE_MESSAGE_SUB_TITLE": "Цю дію не можна скасувати.",
+    "COPY_MESSAGE": "Повідомлення скопійовано до буфера обміну",
+    "PRIORITY": {
+      "TITLE": "Пріоритет",
+      "OPTIONS": {
+        "NONE": "Нiчого",
+        "URGENT": "Терміновий",
+        "HIGH": "Високий",
+        "MEDIUM": "Середній",
+        "LOW": "Низький"
+      },
+      "CHANGE_PRIORITY": {
+        "SELECT_PLACEHOLDER": "Нiчого",
+        "INPUT_PLACEHOLDER": "Оберіть пріоритет",
+        "NO_RESULTS": "Результатів не знайдено",
+        "SUCCESSFUL": "Змінено пріоритет для бесід з ID %{conversationId} на %{priority}",
+        "FAILED": "Не вдалося змінити пріоритет. Будь ласка, спробуйте ще раз."
+      }
+    }
+  },
+  "FILTER": {
+    "ALL_INBOXES": "Усі вхідні",
+    "FILTER_BY_ASSIGNEE_TYPE": "Filter by assignee type",
+    "FILTER_BY_CONVERSATION_STATUS": "Фільтрувати за статусом розмови",
+    "SORT_BY": "Сортувати за",
+    "FILTER_BY_INBOX": "Фільтрувати за вхідними",
+    "HEADER_TITLE": "Фільтр бесід",
+    "CHOOSE_INBOX": "Choose Inbox",
+    "CHOOSE_STATUS": "Статус бесіди",
+    "OPEN": "Відкриті",
+    "RESOLVED": "Вирішений",
+    "BOT": "Бот",
+    "SUBMIT": "Додати",
+    "PENDING": "В очікуванні",
+    "SNOOZED": "Відкладено"
+  },
+  "SETTINGS": {
+    "HEADER_TITLE": "Налаштування",
+    "SET_AVAILABILITY": "Позначити себе як",
+    "PREFERENCES": "Налаштування",
+    "ABOUT": "About",
+    "SUPPORT": "Підтримка",
+    "SWITCH_ACCOUNT": "Змінити обліковий запис",
+    "CHANGE_LANGUAGE": "Змінити мову",
+    "NOTIFICATION_PREFERENCES": "Налаштування сповіщень",
+    "LOGOUT": "Вийти",
+    "SUBMIT": "Додати"
+  },
+  "NOTIFICATION": {
+    "HEADER_TITLE": "Сповіщення",
+    "EMPTY": "Немає сповіщень.",
+    "EMPTY_MORE_TEXT": "Як тільки ви почнете отримувати сповіщення, вони з'являться тут.",
+    "ALL_NOTIFICATION_LOADED": "Всі сповіщення завантажено",
+    "MARK_ALL": "Позначити всі як прочитані",
+    "CANCEL": "Скасувати"
+  },
+  "AVAILABILITY": {
+    "ONLINE": "В мережі",
+    "BUSY": "Зайнятий",
+    "OFFLINE": "Не в мережі"
+  },
+  "NOTIFICATION_PREFERENCE": {
+    "TITLE": "Налаштування сповіщень",
+    "EMAIL": "Сповіщення електронною поштою",
+    "PUSH": "Push-сповіщення",
+    "CONVERSATION_CREATE_PUSH": "Надсилати push-сповіщення, коли створюється нова розмова",
+    "CONVERSATION_ASSIGNEE_PUSH": "Надсилати push-сповіщення, коли мені призначено розмову",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_PUSH": "Надсилати push-сповіщення, коли нове повідомлення створюється в призначеній бесіді",
+    "CONVERSATION_MENTION": "Надсилати push-сповіщення, коли вас згадують в розмові",
+    "CONVERSATION_PARTICIPATING_NEW_MESSAGE_PUSH": "Надсилати push-повідомлення, коли нове повідомлення створюється в призначеній розмові",
+    "CONVERSATION_CREATE_EMAIL": "Надсилати сповіщення при створенні нової бесіди",
+    "CONVERSATION_ASSIGNEE_EMAIL": "Надсилати сповіщення коли бесіду призначають мені",
+    "CONVERSATION_MENTION_EMAIL": "Надсилати сповіщення електронною поштою, коли вас згадують в розмові",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_EMAIL": "Надсилати email-сповіщення, коли нове повідомлення створюється в призначеній бесіді",
+    "CONVERSATION_PARTICIPATING_NEW_MESSAGE_EMAIL": "Надсилати push-повідомлення, коли нове повідомлення створюється в призначеній розмові"
+  },
+  "CONVERSATION_DETAILS": {
+    "TITLE": "Інформація про бесіду",
+    "BROWSER": "Браузер",
+    "OPERATING_SYSTEM": "Операційна система",
+    "INITIATED_AT": "Час початку",
+    "INITIATED_FROM": "Розпочато з",
+    "IP_ADDRESS": "IP-адреса"
+  },
+  "CONVERSATION_PARTICIPANTS": {
+    "TITLE": "Учасники бесіди",
+    "TOTAL_PARTICIPANTS_TEXT": "%{count} людей беруть участь.",
+    "TOTAL_PARTICIPANT_TEXT": "%{count} людей беруть участь.",
+    "NO_PARTICIPANTS_TEXT": "Нікого немає!.",
+    "WATCH_CONVERSATION": "Підключитись до бесіди",
+    "YOU_ARE_WATCHING": "Ви підключились",
+    "NO_RECORDS_FOUND": "Результатів не знайдено",
+    "SELECT_PARTICIPANTS": "Select agents",
+    "ADD_PARTICIPANTS": "Виберіть учасників",
+    "REMAINING_PARTICIPANTS_TEXT": "others",
+    "REMAINING_PARTICIPANT_TEXT": "other"
+  },
+  "CONTACT_ATTRIBUTES": {
+    "TITLE": "Атрибути контакту"
+  },
+  "CONVERSATION_ACTION": {
+    "TITLE": "Дії"
+  },
+  "CONVERSATION_TEAMS": {
+    "TITLE": "Призначити команду",
+    "SELECT_TEAM": "Виберіть команду",
+    "NO_RESULT": "Команда не знайдена"
+  },
+  "CONVERSATION_LABELS": {
+    "TITLE": "Мітки бесіди",
+    "ADD_LABEL": "Додати мітки",
+    "EMPTY_LIST": "Будь ласка, додайте мітки до вашого облікового запису",
+    "NO_LABEL": "Міток не призначено",
+    "UPDATE_LABEL": "Мітку успішно оновлено",
+    "SELECTED": "Вибрано",
+    "NOT_SELECTED": "Мітки не вибрані",
+    "NO_RESULT": "Міток не знайдено"
+  },
+  "CONVERSATION_AGENTS": {
+    "TITLE": "Призначити агента",
+    "SELECT_AGENT": "Виберіть агента",
+    "NO_RESULT": "No agent found"
+  },
+  "AGENT": {
+    "TITLE": "Select Agent"
+  },
+  "TEAMS": {
+    "TITLE": "Оберіть команду",
+    "EMPTY": "Please add teams to your account to assign conversations to teams.",
+    "CHANGE_TEAMS": "Команда змінена"
+  },
+  "ERRORS": {
+    "COMMON_ERROR": "Не вдалося підключитися до Woot Server, спробуйте ще раз пізніше",
+    "OfFLINE": "Ви повинні під'єднатися до Wi-Fi або до стільникового зв'язку, щоб бути онлайн",
+    "CANNOT_FETCH": "Помилка при отриманні інформації, будь ласка, спробуйте ще раз",
+    "AUTH": "Неправильне ім'я користувача / пароль. Будь ласка, спробуйте ще раз",
+    "NO_ACCOUNTS_MESSAGE": "Ви не маєте доступу до жодних облікових записів chatwoot"
+  },
+  "SUCCESS": {
+    "AUTH": "Вхід успішно здійснено"
+  },
+  "SERVER_UPGRADE": {
+    "TITLE": "Server upgrade required",
+    "WARNING_FOR_AGENT": "Схоже, ви використовуєте непідтримуваний сервер Chatwoot для вашого мобільного додатку. Будь ласка, зверніться до адміністратора, щоб оновити ваш сервер Chatwoot.",
+    "WARNING_FOR_ADMIN": "Схоже, ви використовуєте непідтримуваний сервер Chatwoot для вашого мобільного додатку. Потрібне оновлення до версії сервера %{minimumVersion} або вище."
+  },
+  "EXIT": {
+    "TITLE": "Вийти",
+    "SUBTITLE": "Ви впевнені, що хочете вийти?",
+    "CANCEL": "Скасувати",
+    "OK": "Гаразд"
+  },
+  "BANNER": {
+    "TWILIO_WHATSAPP": {
+      "TEXT": "You can only reply to this conversation using a template message due to ",
+      "HREF_TEXT": "24-годинне обмеження на повідомлення",
+      "HREF_LINK": "https://www.twilio.com/docs/whatsapp/tutorial/send-whatsapp-notification-messages-templates#sending-non-template-messages-within-a-24-hour-session"
+    },
+    "FACEBOOK": {
+      "TEXT": "You cannot reply due to ",
+      "HREF_TEXT": "24-годинне обмеження на повідомлення",
+      "HREF_LINK": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/"
+    }
+  }
+}

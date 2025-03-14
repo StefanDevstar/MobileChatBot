@@ -1,0 +1,253 @@
+{
+  "WELCOME": "வரவேற்கிறோம்",
+  "COMMON": {
+    "ERROR": "பிழை",
+    "ERROR_TITLE": "எதிர்பாராத பிழை ஏற்பட்டது",
+    "REPORT_MESSAGE": "இதை எங்கள் அணிக்கு புகாரளித்துள்ளோம்! பயன்பாட்டை மூடிவிட்டு மீண்டும் தொடங்கவும்!",
+    "CLOSE": "மூடவும்"
+  },
+  "FOOTER": {
+    "HOME": "முகப்பு",
+    "CONVERSATION": "உரையாடல்கள்",
+    "NOTIFICATION": "Notifications",
+    "SETTINGS": "அமைப்புகள்"
+  },
+  "CONFIGURE_URL": {
+    "ENTER_URL": "Installation URL",
+    "DESCRIPTION": "If you are using a self-hosted Chatwoot installation, input your server URL. Otherwise, use app.chatwoot.com.",
+    "URL_ERROR": "சரியான URL ஐ உள்ளிடவும்",
+    "URL_REQUIRED": "URL is required",
+    "CONNECT": "Connect",
+    "CHANGE_LANGUAGE": "மொழியை மாற்றவும்",
+    "ERROR": "Invalid installation url"
+  },
+  "LOGIN": {
+    "TITLE": "Login to your account",
+    "DESCRIPTION": "You are connected to {{baseUrl}}. Login with your email address and password.",
+    "EMAIL": "ஈ-மெயில்",
+    "PASSWORD": "பாஸ்வேர்டு",
+    "EMAIL_REQUIRED": "Email is required",
+    "EMAIL_ERROR": "சரியான ஈ-மெயில் முகவரியை உள்ளிடவும்",
+    "PASSWORD_REQUIRED": "Password is required",
+    "PASSWORD_ERROR": "சரியான பாஸ்வேர்ட்டை உள்ளிடவும்",
+    "LOGIN": "உல் நுழையவும்",
+    "FORGOT_PASSWORD": "உங்கள் பாஸ்வேர்ட்டை மறந்து விட்டீர்களா?",
+    "RESET_HERE": "இங்கே மீட்டமைக்கவும்",
+    "NO_ACCOUNT": "கணக்கு இல்லையா?",
+    "CREATE_ACCOUNT": "புதிய கணக்கை உருவாக்க",
+    "SETTINGS": "அமைப்புகள்",
+    "CHANGE_LANGUAGE": "மொழியை மாற்றவும்",
+    "TERMS": "விதிமுறைகளும் நிபந்தனைகளும்",
+    "CHANGE_URL": "URL ஐ மாற்ற"
+  },
+  "FORGOT_PASSWORD": {
+    "EMAIL": "உங்கள் ஈ-மெயில் முகவரியை உள்ளிடவும்",
+    "EMAIL_ERROR": "சரியான ஈ-மெயில் முகவரியை உள்ளிடவும்",
+    "RESET_HERE": "பாஸ்வேர்ட்டை மீட்டமைக்கவும்",
+    "HEADER_TITLE": "பாஸ்வேர்ட்டை மீட்டமைக்கவும்",
+    "TITLE": "Forgot Password?",
+    "SUB_TITLE": "Don't worry! We got your back",
+    "API_SUCCESS": "Password reset link has been sent to your email address"
+  },
+  "CONVERSATION": {
+    "DEFAULT_HEADER_TITLE": "உரையாடல்கள்",
+    "UPDATING": "Updating...",
+    "MINE": "என்னுடைய",
+    "UN_ASSIGNED": "ஒதுக்கப்படாதது",
+    "ALL": "எல்லாம்",
+    "EMPTY": "இந்த குழுவில் செயலில் உள்ள உரையாடல்கள் எதுவும் இல்லை.",
+    "PICTURE_CONTENT": "பட செய்தி",
+    "ATTACHMENT_CONTENT": "பைல் இணைப்பு",
+    "DOWNLOAD": "பதிவிறக்கம்",
+    "TODAY": "இன்று",
+    "YESTERDAY": "நேற்று",
+    "TYPE_MESSAGE": "செய்தியைத் பதிவிடவும்",
+    "TYPING": "பதிவிடப்படுகிறது",
+    "ALL_CONVERSATION_LOADED": "All conversations loaded",
+    "ASSIGN": "Assign conversation",
+    "FILE_SIZE_LIMIT": "File exceeds the 5MB attachment limit",
+    "SHARE": "Share conversation",
+    "DETAILS": "Details",
+    "LABELS": "Conversation labels",
+    "ASSIGNED_AGENT": "Assigned agent",
+    "TEAM": "Team",
+    "PRIVATE_MSG_INPUT": "This will be visible only to Agents",
+    "SELF_ASSIGN": "Self assign conversation",
+    "UN_ASSIGN": "Unassign conversation",
+    "CONVERSATION_NOT_FOUND": "Could not fetch conversation",
+    "MARK_AS_PENDING": "Mark as pending",
+    "SNOOZE_UNTIL": "Snooze until",
+    "SNOOZE_UNTIL_NEXT_REPLY": "Until next reply",
+    "SNOOZE_UNTIL_TOMORROW": "Until tomorrow",
+    "SNOOZE_UNTIL_NEXT_WEEK": "Until next week",
+    "SNOOZE": "Snooze conversation",
+    "CHANGE_PRIORITY": "Change priority",
+    "MESSAGES": "Messages",
+    "UNDEFINED_VARIABLES_TITLE": "Undefined variables",
+    "UNDEFINED_VARIABLES_CLOSE": "மூடவும்",
+    "DELETE_MESSAGE_TITLE": "Are you sure you want to delete this message?",
+    "DELETE_MESSAGE_SUB_TITLE": "This action cannot be undone.",
+    "COPY_MESSAGE": "Message copied to clipboard",
+    "PRIORITY": {
+      "TITLE": "Priority",
+      "OPTIONS": {
+        "NONE": "None",
+        "URGENT": "Urgent",
+        "HIGH": "High",
+        "MEDIUM": "Medium",
+        "LOW": "Low"
+      },
+      "CHANGE_PRIORITY": {
+        "SELECT_PLACEHOLDER": "None",
+        "INPUT_PLACEHOLDER": "Select priority",
+        "NO_RESULTS": "No results found",
+        "SUCCESSFUL": "Changed priority of conversation id %{conversationId} to %{priority}",
+        "FAILED": "Couldn't change priority. Please try again."
+      }
+    }
+  },
+  "FILTER": {
+    "ALL_INBOXES": "All inboxes",
+    "FILTER_BY_ASSIGNEE_TYPE": "Filter by assignee type",
+    "FILTER_BY_CONVERSATION_STATUS": "Filter by conversation status",
+    "SORT_BY": "Sort by",
+    "FILTER_BY_INBOX": "Filter by inbox",
+    "HEADER_TITLE": "Conversation Filter",
+    "CHOOSE_INBOX": "இன்பாக்ஸைத் தேர்வுசெய்க",
+    "CHOOSE_STATUS": "உரையாடலின் நிலை",
+    "OPEN": "திறக்கவும்",
+    "RESOLVED": "தீர்க்கப்பட்டது",
+    "BOT": "Bot",
+    "SUBMIT": "சமர்ப்பிக்கவும்",
+    "PENDING": "Pending",
+    "SNOOZED": "Snoozed"
+  },
+  "SETTINGS": {
+    "HEADER_TITLE": "அமைப்புகள்",
+    "SET_AVAILABILITY": "Set yourself as",
+    "PREFERENCES": "Preferences",
+    "ABOUT": "About",
+    "SUPPORT": "Support",
+    "SWITCH_ACCOUNT": "கணக்கை மாற்றவும்",
+    "CHANGE_LANGUAGE": "Change Language",
+    "NOTIFICATION_PREFERENCES": "Notification Preferences",
+    "LOGOUT": "வெளியேறு",
+    "SUBMIT": "சமர்ப்பிக்கவும்"
+  },
+  "NOTIFICATION": {
+    "HEADER_TITLE": "Notifications",
+    "EMPTY": "No notifications yet.",
+    "EMPTY_MORE_TEXT": "Once you start receiving notifications, they'll appear here.",
+    "ALL_NOTIFICATION_LOADED": "All notifications loaded",
+    "MARK_ALL": "Mark all as read",
+    "CANCEL": "ரத்துசெய்"
+  },
+  "AVAILABILITY": {
+    "ONLINE": "Online",
+    "BUSY": "Busy",
+    "OFFLINE": "Offline"
+  },
+  "NOTIFICATION_PREFERENCE": {
+    "TITLE": "Notification Preferences",
+    "EMAIL": "ஈமெயில் வழியான அறிவிப்புகள்",
+    "PUSH": "புஷ் அறிவிப்புகள்",
+    "CONVERSATION_CREATE_PUSH": "புதிய உரையாடல் உருவாக்கப்படும்போது புஷ் அறிவிப்புகளை அனுப்பவும்",
+    "CONVERSATION_ASSIGNEE_PUSH": "ஒரு உரையாடல் எனக்கு ஒதுக்கப்படும் போது புஷ் அறிவிப்புகளை அனுப்பவும்",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_PUSH": "Send push notifications when a new message is created in an assigned conversation",
+    "CONVERSATION_MENTION": "Send push notifications when you are mentioned in a conversation",
+    "CONVERSATION_PARTICIPATING_NEW_MESSAGE_PUSH": "Send push notifications when a new message is created in a participating conversation",
+    "CONVERSATION_CREATE_EMAIL": "புதிய உரையாடல் உருவாக்கப்படும்போது ஈ-மெயிலில் அறிவிப்புகளை அனுப்பவும்",
+    "CONVERSATION_ASSIGNEE_EMAIL": "ஒரு உரையாடல் எனக்கு ஒதுக்கப்பட்டால் ஈமெயிலில் அறிவிப்புகளை அனுப்பவும்",
+    "CONVERSATION_MENTION_EMAIL": "Send email notifications when you are mentioned in a conversation",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_EMAIL": "Send email notifications when a new message is created in an assigned conversation",
+    "CONVERSATION_PARTICIPATING_NEW_MESSAGE_EMAIL": "Send push notifications when a new message is created in a participating conversation"
+  },
+  "CONVERSATION_DETAILS": {
+    "TITLE": "Conversation Information",
+    "BROWSER": "புரவுஸர்",
+    "OPERATING_SYSTEM": "ஆப்பரேட்டிங் சிஸ்டம்",
+    "INITIATED_AT": "இல் தொடங்கப்பட்டது",
+    "INITIATED_FROM": "இருந்து தொடங்கப்பட்டது",
+    "IP_ADDRESS": "IP Address"
+  },
+  "CONVERSATION_PARTICIPANTS": {
+    "TITLE": "Conversation participants",
+    "TOTAL_PARTICIPANTS_TEXT": "%{count} people are participating.",
+    "TOTAL_PARTICIPANT_TEXT": "%{count} person is participating.",
+    "NO_PARTICIPANTS_TEXT": "No one is participating!.",
+    "WATCH_CONVERSATION": "Join conversation",
+    "YOU_ARE_WATCHING": "You are participating",
+    "NO_RECORDS_FOUND": "No results found",
+    "SELECT_PARTICIPANTS": "Select agents",
+    "ADD_PARTICIPANTS": "Select participants",
+    "REMAINING_PARTICIPANTS_TEXT": "others",
+    "REMAINING_PARTICIPANT_TEXT": "other"
+  },
+  "CONTACT_ATTRIBUTES": {
+    "TITLE": "Contact Attributes"
+  },
+  "CONVERSATION_ACTION": {
+    "TITLE": "செயல்கள்"
+  },
+  "CONVERSATION_TEAMS": {
+    "TITLE": "Assign team",
+    "SELECT_TEAM": "Select team",
+    "NO_RESULT": "No team found"
+  },
+  "CONVERSATION_LABELS": {
+    "TITLE": "உரையாடல் லேபிள்கள்",
+    "ADD_LABEL": "Add Labels",
+    "EMPTY_LIST": "Please add labels to your account",
+    "NO_LABEL": "No labels assigned",
+    "UPDATE_LABEL": "Label updated successfully",
+    "SELECTED": "Selected",
+    "NOT_SELECTED": "No labels selected",
+    "NO_RESULT": "No labels found"
+  },
+  "CONVERSATION_AGENTS": {
+    "TITLE": "Assign agent",
+    "SELECT_AGENT": "Select agent",
+    "NO_RESULT": "No agent found"
+  },
+  "AGENT": {
+    "TITLE": "Select Agent"
+  },
+  "TEAMS": {
+    "TITLE": "Select Team",
+    "EMPTY": "Please add teams to your account to assign conversations to teams.",
+    "CHANGE_TEAMS": "Conversation team changed"
+  },
+  "ERRORS": {
+    "COMMON_ERROR": "வூட் சர்வருடன் இணைக்க முடியவில்லை, பின்னர் மீண்டும் முயற்சிக்கவும்",
+    "OfFLINE": "மீண்டும் ஆன்லைனில் செல்ல நீங்கள் வைஃபை அல்லது செல்லுலார் நெட்வொர்க்குடன் இணைக்க வேண்டும்",
+    "CANNOT_FETCH": "தகவலைப் பெறுவதில் பிழை ஏற்பட்டது, தயவுசெய்து மீண்டும் முயற்சிக்கவும்",
+    "AUTH": "யூசர் நேம் / பாஸ்வேர்டு தவறானது. தயவு செய்து மீண்டும் முயற்சிக்கவும்",
+    "NO_ACCOUNTS_MESSAGE": "You don't have access to any chatwoot accounts"
+  },
+  "SUCCESS": {
+    "AUTH": "வெற்றிகரமான உள்நுழைவு"
+  },
+  "SERVER_UPGRADE": {
+    "TITLE": "Server upgrade required",
+    "WARNING_FOR_AGENT": "It seems like you are using unsupported Chatwoot server for your mobile app. Please contact your admin to upgrade your Chatwoot server.",
+    "WARNING_FOR_ADMIN": "It seems like you are using unsupported Chatwoot server for your mobile app. Upgrading to server version %{minimumVersion} or later is required."
+  },
+  "EXIT": {
+    "TITLE": "வெளியேறு",
+    "SUBTITLE": "நீங்கள் நிச்சயம் வெளியேற வேண்டுமா?",
+    "CANCEL": "ரத்துசெய்",
+    "OK": "சரி"
+  },
+  "BANNER": {
+    "TWILIO_WHATSAPP": {
+      "TEXT": "You can only reply to this conversation using a template message due to ",
+      "HREF_TEXT": "24 hour message window restriction",
+      "HREF_LINK": "https://www.twilio.com/docs/whatsapp/tutorial/send-whatsapp-notification-messages-templates#sending-non-template-messages-within-a-24-hour-session"
+    },
+    "FACEBOOK": {
+      "TEXT": "You cannot reply due to ",
+      "HREF_TEXT": "24 hour message window restriction",
+      "HREF_LINK": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/"
+    }
+  }
+}

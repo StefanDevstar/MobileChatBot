@@ -1,0 +1,253 @@
+{
+  "WELCOME": "خوش آمدید",
+  "COMMON": {
+    "ERROR": "خطا",
+    "ERROR_TITLE": "خطای غیرمنتظره رخ داده است",
+    "REPORT_MESSAGE": "ما این مورد را به تیم خود گزارش داده ایم! لطفاً برنامه را ببندید و دوباره اجرا کنید!",
+    "CLOSE": "بستن"
+  },
+  "FOOTER": {
+    "HOME": "صفحه اصلی",
+    "CONVERSATION": "گفتگوها",
+    "NOTIFICATION": "اعلان ها",
+    "SETTINGS": "تنظیمات"
+  },
+  "CONFIGURE_URL": {
+    "ENTER_URL": "نصب با URL",
+    "DESCRIPTION": "اگر از نرم افزار روی سرورهای شخصی استفاده می کنید ، آدرس سرور خود را وارد کنید. در غیر این صورت ، از app.chatwoot.com استفاده کنید.",
+    "URL_ERROR": "نشانی وب معتبری وارد کنید",
+    "URL_REQUIRED": "نشانی اینترنتی الزامی است",
+    "CONNECT": "اتصال",
+    "CHANGE_LANGUAGE": "تغییر زبان",
+    "ERROR": "نشانی اینترنتی نصب نامعتبر است"
+  },
+  "LOGIN": {
+    "TITLE": "وارد حساب کاربری خود شوید",
+    "DESCRIPTION": "شما به {{baseUrl}} متصل هستید. با آدرس ایمیل و رمز ورود خود وارد شوید.",
+    "EMAIL": "ایمیل",
+    "PASSWORD": "رمز عبور",
+    "EMAIL_REQUIRED": "ایمیل الزامی است",
+    "EMAIL_ERROR": "یک ایمیل معتبر وارد کنید",
+    "PASSWORD_REQUIRED": "رمز عبور الزامی است",
+    "PASSWORD_ERROR": "رمز عبور معتبر وارد کنید",
+    "LOGIN": "ورود",
+    "FORGOT_PASSWORD": "رمز عبورتان را فراموش کردید؟",
+    "RESET_HERE": "اینجا ریست کنید",
+    "NO_ACCOUNT": "حساب کاربری ندارید؟",
+    "CREATE_ACCOUNT": "حساب جدید بسازید",
+    "SETTINGS": "تنظیمات",
+    "CHANGE_LANGUAGE": "تغییر زبان",
+    "TERMS": "شرایط و ضوابط",
+    "CHANGE_URL": "تغییر URL"
+  },
+  "FORGOT_PASSWORD": {
+    "EMAIL": "لطفا ایمیل خود را وارد کنید",
+    "EMAIL_ERROR": "یک ایمیل معتبر وارد کنید",
+    "RESET_HERE": "تغییر رمز عبور",
+    "HEADER_TITLE": "تغییر رمز عبور",
+    "TITLE": "رمز عبورتان را فراموش کردید؟",
+    "SUB_TITLE": "نگران نباش! ما پشتت رو گرفتیم",
+    "API_SUCCESS": "پیوند بازنشانی رمز عبور به ایمیل شما ارسال شد"
+  },
+  "CONVERSATION": {
+    "DEFAULT_HEADER_TITLE": "گفتگوها",
+    "UPDATING": "در حال به‌روزرسانی...",
+    "MINE": "من",
+    "UN_ASSIGNED": "تخصیص داده نشده",
+    "ALL": "همه",
+    "EMPTY": "هیچ گفتگوی فعالی در این گروه نیست",
+    "PICTURE_CONTENT": "پیام تصویری",
+    "ATTACHMENT_CONTENT": "فایل الصاقی",
+    "DOWNLOAD": "دانلود",
+    "TODAY": "امروز",
+    "YESTERDAY": "دیروز",
+    "TYPE_MESSAGE": "پیام خود را وارد کنید",
+    "TYPING": "تایپ کردن",
+    "ALL_CONVERSATION_LOADED": "همه گفتگوها دریافت شدند",
+    "ASSIGN": "اختصاص مکالمه",
+    "FILE_SIZE_LIMIT": "محدودیت حجم فایل پیوست 5MB می باشد",
+    "SHARE": "اشتراک گذاری گفتگو",
+    "DETAILS": "Details",
+    "LABELS": "Conversation labels",
+    "ASSIGNED_AGENT": "ایجنت تعیین شده",
+    "TEAM": "تیم‌",
+    "PRIVATE_MSG_INPUT": "این فقط برای ایجنت ها قابل مشاهده خواهد بود",
+    "SELF_ASSIGN": "Self assign conversation",
+    "UN_ASSIGN": "لغو اختصاص مکالمه",
+    "CONVERSATION_NOT_FOUND": "گفتگو را نمی‌تواند دریافت کرد",
+    "MARK_AS_PENDING": "علامت گذاری به عنوان در انتظار",
+    "SNOOZE_UNTIL": "به تعویق انداختن تا",
+    "SNOOZE_UNTIL_NEXT_REPLY": "تا پاسخ بعدی",
+    "SNOOZE_UNTIL_TOMORROW": "تا فردا",
+    "SNOOZE_UNTIL_NEXT_WEEK": "تا هفته بعد",
+    "SNOOZE": "Snooze conversation",
+    "CHANGE_PRIORITY": "Change priority",
+    "MESSAGES": "پیام‌ها",
+    "UNDEFINED_VARIABLES_TITLE": "متغیرهای تعریف نشده",
+    "UNDEFINED_VARIABLES_CLOSE": "بستن",
+    "DELETE_MESSAGE_TITLE": "آیا از حذف این پیام مطمئن هستید؟",
+    "DELETE_MESSAGE_SUB_TITLE": "This action cannot be undone.",
+    "COPY_MESSAGE": "Message copied to clipboard",
+    "PRIORITY": {
+      "TITLE": "اولویت",
+      "OPTIONS": {
+        "NONE": "هیچکدام",
+        "URGENT": "Urgent",
+        "HIGH": "بالا",
+        "MEDIUM": "متوسط",
+        "LOW": "پایین"
+      },
+      "CHANGE_PRIORITY": {
+        "SELECT_PLACEHOLDER": "هیچکدام",
+        "INPUT_PLACEHOLDER": "انتخاب اولویت",
+        "NO_RESULTS": "نتیجه‌ای یافت نشد",
+        "SUCCESSFUL": "تغییر اولویت گفتگوی با شناسه %{conversationId} به %{priority}",
+        "FAILED": "تغییر اولویت گفتگو با موفقیت انجام نشد. لطفا دوباره تلاش نمایید."
+      }
+    }
+  },
+  "FILTER": {
+    "ALL_INBOXES": "همه صندوق‌های‌ورودی",
+    "FILTER_BY_ASSIGNEE_TYPE": "فیلتر براساس نوع اختصاص شده",
+    "FILTER_BY_CONVERSATION_STATUS": "فیلتر براساس وضعیت گفتگو",
+    "SORT_BY": "مرتب‌سازی براساس",
+    "FILTER_BY_INBOX": "فیلتر براساس صندوق‌ورودی",
+    "HEADER_TITLE": "فیلتر مکالمه",
+    "CHOOSE_INBOX": "صندوق ورودی را انتخاب کنید",
+    "CHOOSE_STATUS": "وضعیت مکالمه",
+    "OPEN": "باز",
+    "RESOLVED": "حل شده",
+    "BOT": "ربات",
+    "SUBMIT": "ثبت",
+    "PENDING": "در انتظار",
+    "SNOOZED": "به تعویق افتاد"
+  },
+  "SETTINGS": {
+    "HEADER_TITLE": "تنظیمات",
+    "SET_AVAILABILITY": "خود را به عنوان",
+    "PREFERENCES": "تنظیمات",
+    "ABOUT": "درباره",
+    "SUPPORT": "پشتیبانی",
+    "SWITCH_ACCOUNT": "سوییچ به یک حساب دیگر",
+    "CHANGE_LANGUAGE": "تغییر زبان",
+    "NOTIFICATION_PREFERENCES": "تنظیمات اعلان",
+    "LOGOUT": "خروج از حساب",
+    "SUBMIT": "ثبت"
+  },
+  "NOTIFICATION": {
+    "HEADER_TITLE": "اعلان ها",
+    "EMPTY": "اعلانی وجود ندارد.",
+    "EMPTY_MORE_TEXT": "هنگامی که اعلان جدیدی دریافت می کنید ، آنها در اینجا نمایش داده می شوند.",
+    "ALL_NOTIFICATION_LOADED": "همه اعلان ها بارگیری شدند",
+    "MARK_ALL": "همه را به عنوان خوانده شده علامت بزن",
+    "CANCEL": "انصراف"
+  },
+  "AVAILABILITY": {
+    "ONLINE": "آنلاین",
+    "BUSY": "مشغول",
+    "OFFLINE": "آفلاین"
+  },
+  "NOTIFICATION_PREFERENCE": {
+    "TITLE": "تنظیمات اعلان",
+    "EMAIL": "اعلامیه‌ به ایمیل",
+    "PUSH": "پوش نوتیفیکیشن",
+    "CONVERSATION_CREATE_PUSH": "هر وقت گفتگوی جدیدی شروع شد برای من پوش نوتیفیکیشن بفرست",
+    "CONVERSATION_ASSIGNEE_PUSH": "هر وقت گفتگویی به من اختصاص داده شد، برای من پوش نوتیفیکیشن بفرست",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_PUSH": "وقتی پیام جدیدی در مکالمه اختصاص داده شده ایجاد می شود ، پوش نوتیفیکیشن را ارسال کنید",
+    "CONVERSATION_MENTION": "هنگامی که از شما در مکالمه نام برده می شود پوش نوتیفیکیشن ارسال کنید",
+    "CONVERSATION_PARTICIPATING_NEW_MESSAGE_PUSH": "هنگامی که یک پیام جدید در یک مکالمه شرکت کننده ایجاد می شود، اعلان فشار ارسال کنید",
+    "CONVERSATION_CREATE_EMAIL": "هر وقت گفتگوی جدیدی شروع شد برای من ایمیل بفرست",
+    "CONVERSATION_ASSIGNEE_EMAIL": "هر وقت گفتگویی به من اختصاص داده شد،‌ ایمیل بفرست",
+    "CONVERSATION_MENTION_EMAIL": "هنگامی که از شما در گفتگو نام برده می‌شود، از طریق ایمیل آگاه‌سازی ارسال کن",
+    "CONVERSATION_ASSIGNED_NEW_MESSAGE_EMAIL": "با ایجاد پیام جدید در مکالمه اختصاصی ، اعلان های ایمیل را ارسال کنید",
+    "CONVERSATION_PARTICIPATING_NEW_MESSAGE_EMAIL": "هنگامی که یک پیام جدید در یک مکالمه شرکت کننده ایجاد می شود، اعلان فشار ارسال کنید"
+  },
+  "CONVERSATION_DETAILS": {
+    "TITLE": "اطلاعات مکالمه",
+    "BROWSER": "مرورگر",
+    "OPERATING_SYSTEM": "سیستم عامل",
+    "INITIATED_AT": "شروع شده در",
+    "INITIATED_FROM": "شروع شده از",
+    "IP_ADDRESS": "آدرس آی‌پی"
+  },
+  "CONVERSATION_PARTICIPANTS": {
+    "TITLE": "شرکت کنندگان در گفتگو",
+    "TOTAL_PARTICIPANTS_TEXT": "%{count} نفر شرکت می کنند.",
+    "TOTAL_PARTICIPANT_TEXT": "%{count} نفر شرکت می کند.",
+    "NO_PARTICIPANTS_TEXT": "هیچ کس شرکت نمی کند!.",
+    "WATCH_CONVERSATION": "به گفتگو بپیوندید",
+    "YOU_ARE_WATCHING": "شما شرکت می کنید",
+    "NO_RECORDS_FOUND": "نتیجه‌ای یافت نشد",
+    "SELECT_PARTICIPANTS": "Select agents",
+    "ADD_PARTICIPANTS": "شرکت کنندگان را انتخاب کنید",
+    "REMAINING_PARTICIPANTS_TEXT": "others",
+    "REMAINING_PARTICIPANT_TEXT": "other"
+  },
+  "CONTACT_ATTRIBUTES": {
+    "TITLE": "ویژگی‌های تماس"
+  },
+  "CONVERSATION_ACTION": {
+    "TITLE": "عملیات"
+  },
+  "CONVERSATION_TEAMS": {
+    "TITLE": "تیم را تعیین کنید",
+    "SELECT_TEAM": "انتخاب تیم",
+    "NO_RESULT": "No team found"
+  },
+  "CONVERSATION_LABELS": {
+    "TITLE": "برچسب‌های گفتگو",
+    "ADD_LABEL": "افزودن برچسب‌ها",
+    "EMPTY_LIST": "لطفا برچسب‌ها را به حساب‌کاربری خود اضافه کنید",
+    "NO_LABEL": "هیچ برچسبی اختصاص داده نشده است",
+    "UPDATE_LABEL": "برچسب با موفقیت به روز شد",
+    "SELECTED": "Selected",
+    "NOT_SELECTED": "No labels selected",
+    "NO_RESULT": "هیچ برچسبی یافت نشد"
+  },
+  "CONVERSATION_AGENTS": {
+    "TITLE": "ایجنت را تعیین کنید",
+    "SELECT_AGENT": "انتخاب ایجنت",
+    "NO_RESULT": "No agent found"
+  },
+  "AGENT": {
+    "TITLE": "انتخاب ایجنت"
+  },
+  "TEAMS": {
+    "TITLE": "تیم را انتخاب کنید",
+    "EMPTY": "لطفا تیم‌ها را به حساب‌کاربری خود اضافه کنید تا گفتگوها را به تیم‌ها اختصاص دهید.",
+    "CHANGE_TEAMS": "تیم مکالمه تغییر کرد"
+  },
+  "ERRORS": {
+    "COMMON_ERROR": "متاسفانه ارتباط با سرور برقرار نشد، مجددا امتحان کنید",
+    "OfFLINE": "برای اتصال مجدد باید به وای فای یا شبکه تلفن همراه متصل شوید",
+    "CANNOT_FETCH": "هنگام دریافت اطلاعات خطایی روی داد ، لطفاً دوباره امتحان کنید",
+    "AUTH": "این نام کاربری و رمز عبور صحیح نیست",
+    "NO_ACCOUNTS_MESSAGE": "شما به هیچ حسابی دسترسی ندارید"
+  },
+  "SUCCESS": {
+    "AUTH": "ورود موفق"
+  },
+  "SERVER_UPGRADE": {
+    "TITLE": "سرور باید بروزرسانی شود",
+    "WARNING_FOR_AGENT": "به نظر می رسد که از سرور پشتیبانی نشده Chatwoot برای برنامه تلفن همراه خود استفاده می کنید. لطفاً برای ارتقاء سرور Chatwoot با مدیر سرور خود تماس بگیرید.",
+    "WARNING_FOR_ADMIN": "به نظر می رسد که از سرور پشتیبانی نشده Chatwoot برای برنامه تلفن همراه خود استفاده می کنید. ارتقاء به نسخه سرور %{minimumVersion} یا بالاتر مورد نیاز است."
+  },
+  "EXIT": {
+    "TITLE": "خروج",
+    "SUBTITLE": "آیا مطمئن هستید که می خواهید خارج شوید؟",
+    "CANCEL": "انصراف",
+    "OK": "باشه"
+  },
+  "BANNER": {
+    "TWILIO_WHATSAPP": {
+      "TEXT": "شما فقط با استفاده از یک پیام الگو به این مکالمه می‌توانید پاسخ دهید ",
+      "HREF_TEXT": "محدودیت ۲۴ ساعته پنجره پیام",
+      "HREF_LINK": "https://www.twilio.com/docs/whatsapp/tutorial/send-whatsapp-notification-messages-templates#sending-non-template-messages-within-a-24-hour-session"
+    },
+    "FACEBOOK": {
+      "TEXT": "شما نمی‌توانید پاسخ بدهید به دلیل ",
+      "HREF_TEXT": "محدودیت ۲۴ ساعته پنجره پیام",
+      "HREF_LINK": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/"
+    }
+  }
+}
