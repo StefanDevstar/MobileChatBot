@@ -5,27 +5,7 @@ import { View } from 'react-native-animatable';
 import { StyleSheet } from 'react-native';
 import { Text, Icon, Pressable } from 'components';
 
-const createStyles = theme => {
-  const { spacing, borderRadius, colors } = theme;
-  return StyleSheet.create({
-    labelView: {
-      flexDirection: 'row',
-      alignItems: 'center',
-      justifyContent: 'flex-start',
-      marginBottom: 6,
-      paddingHorizontal: spacing.micro,
-      paddingVertical: spacing.micro,
-      height: spacing.medium,
-      marginRight: spacing.micro,
-      borderColor: colors.borderLight,
-      borderRadius: borderRadius.micro,
-      borderWidth: 0.5,
-    },
-    labelCloseIcon: {
-      marginLeft: spacing.micro,
-    },
-  });
-};
+
 const propTypes = {
   id: PropTypes.number,
   title: PropTypes.string,
