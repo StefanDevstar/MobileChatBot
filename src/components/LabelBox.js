@@ -26,13 +26,6 @@ const createStyles = theme => {
     },
   });
 };
-const propTypes = {
-  id: PropTypes.number,
-  title: PropTypes.string,
-  color: PropTypes.string,
-  conversationId: PropTypes.number,
-  onClickRemoveLabel: PropTypes.func,
-};
 
 const LabelBox = ({ id, title, color, onClickRemoveLabel }) => {
   const theme = useTheme();
