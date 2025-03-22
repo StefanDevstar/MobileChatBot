@@ -4,7 +4,19 @@ import { Pressable, View, StyleSheet, ActivityIndicator } from 'react-native';
 import { useTheme } from '@react-navigation/native';
 import { Text } from 'components';
 
-
+const styles = StyleSheet.create({
+  textLoaderContainer: {
+    flex: 1,
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  buttonText: {
+    fontWeight: '700',
+    fontSize: 14,
+    textAlign: 'center',
+  },
+});
 
 const LoaderButton = ({ loading, onPress, text, size, colorScheme, ...customProps }) => {
   const theme = useTheme();
